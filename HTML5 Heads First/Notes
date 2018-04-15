@@ -1,0 +1,24 @@
+CSS3 - 
+Web Workers
+Forms -
+Offline Web Apps
+Audio & Video
+New ELements
+Local Storage
+Canvas
+Geolocation -
+
+JAVA SCRIPT
+Place <script> elements in the <head> of the HTML to have them executed before the page loads.
+Example:
+<head>
+<script>
+statement
+</script>
+
+Example:
+<script src="mycode.js">
+</script>
+
+
+Math.floor(); drops remainders
