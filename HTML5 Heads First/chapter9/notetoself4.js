@@ -81,7 +81,7 @@ function addStickyToDOM(key, stickyObj) {
 	// set the id attribute to the key so we can find it using
 	// the ids stored in the stickies array
 	sticky.setAttribute("id", key);
-	// use the stickyObj color, and set the background-color CSS style
+	// use the stickyObj color, and set the background-color css style
 	sticky.style.backgroundColor = stickyObj.color;
 
 	var span = document.createElement("span");

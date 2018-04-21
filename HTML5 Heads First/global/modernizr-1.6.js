@@ -22,7 +22,7 @@
  * one for each feature it detects. If the UA supports it, a class
  * like "cssgradients" will be added. If not, the class name will be
  * "no-cssgradients". This allows for simple if-conditionals in your
- * CSS, giving you fine control over the look & feel of your website.
+ * css, giving you fine control over the look & feel of your website.
  * 
  * @author        Faruk Ates
  * @author        Paul Irish
@@ -199,9 +199,9 @@ window.Modernizr = (function(window,doc,undefined){
     }
 
     /**
-     * test_props is a generic CSS / DOM property test; if a browser supports
+     * test_props is a generic css / DOM property test; if a browser supports
      *   a certain property, it won't return undefined for it.
-     *   A supported CSS property returns empty string when its not yet set.
+     *   A supported css property returns empty string when its not yet set.
      */
     function test_props( props, callback ) {
         for ( var i in props ) {
@@ -237,8 +237,8 @@ window.Modernizr = (function(window,doc,undefined){
          * @param {Element} element
          * @param {string} property The property name. This will not be prefixed.
          * @param {string} value The value of the property. This WILL be prefixed.
-         * @param {string=} extra Additional CSS to append unmodified to the end of
-         * the CSS string.
+         * @param {string=} extra Additional css to append unmodified to the end of
+         * the css string.
          */
         function set_prefixed_value_css(element, property, value, extra) {
             property += ':';
@@ -251,8 +251,8 @@ window.Modernizr = (function(window,doc,undefined){
          * @param {Element} element
          * @param {string} property The property name. This WILL be prefixed.
          * @param {string} value The value of the property. This will not be prefixed.
-         * @param {string=} extra Additional CSS to append unmodified to the end of
-         * the CSS string.
+         * @param {string=} extra Additional css to append unmodified to the end of
+         * the css string.
          */
         function set_prefixed_property_css(element, property, value, extra) {
             element.style.cssText = prefixes.join(property + ':' + value + ';') + (extra || '');
@@ -447,7 +447,7 @@ window.Modernizr = (function(window,doc,undefined){
     };
     
     
-    // In testing support for a given CSS property, it's legit to test:
+    // In testing support for a given css property, it's legit to test:
     //    elem.style[styleName] !== undefined
     // If the property is supported it will return an empty string,
     // if unsupported it will return undefined.
@@ -492,7 +492,7 @@ window.Modernizr = (function(window,doc,undefined){
     
     
     tests['opacity'] = function() {
-        // Browsers that actually have CSS Opacity implemented have done so
+        // Browsers that actually have css Opacity implemented have done so
         //  according to spec, which means their return values are within the
         //  range of [0.0,1.0] - including the leading zero.
         
@@ -516,7 +516,7 @@ window.Modernizr = (function(window,doc,undefined){
     
     tests['cssgradients'] = function() {
         /**
-         * For CSS Gradients syntax, please see:
+         * For css Gradients syntax, please see:
          * http://webkit.org/blog/175/introducing-css-gradients/
          * https://developer.mozilla.org/en/CSS/-moz-linear-gradient
          * https://developer.mozilla.org/en/CSS/-moz-radial-gradient
