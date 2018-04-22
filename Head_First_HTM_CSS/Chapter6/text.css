@@ -1,0 +1,26 @@
+
+h1,
+h2 {
+    color: gray;
+}
+h1 {
+    border-bottom: 1px solid black;
+}
+body {
+    font-family: sans-serif;
+}
+p{
+    color: orangered;
+}
+em{
+    font-family: serif;
+}
+.greentea {
+    color: green;
+}
+.blueberry {
+    color: purple;
+}
+.raspberry {
+    color: blue;
+}
