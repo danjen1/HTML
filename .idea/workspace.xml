@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ed915c9-e4fd-4c99-9338-20902625b677" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HTML" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Home</find>
+      <find>VR</find>
+      <find>about</find>
+      <find>main</find>
+      <find>contact</find>
+      <find>wi</find>
+      <find>50</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/Head_First_HTML_JS</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TreeHouse/JS_Basics/JS_Basics.js" />
+        <option value="$PROJECT_DIR$/TreeHouse/JS_Basics/scripts.js" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter1/mission.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter1/index.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter1/text.css" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter2/diretions.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter2/directions.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter2/text.css" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter2/elixir.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter2/lounge.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter3/index.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter4/index.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter5/index.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter6/about/directions.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter6/lounge.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter6/beverages/elixir.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter6/text.css" />
+        <option value="$PROJECT_DIR$/Site/css/site.css" />
+        <option value="$PROJECT_DIR$/Site/index.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter7/journal.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter7/journal.css" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter9/lounge.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter9/lounge.css" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter10/lounge.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter10/lounge.css" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/index.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/starbuzz.css" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/absolute/starbuzz.css" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/absolute/index.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/starbuzz/Recipe.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/starbuzz/Inventions.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/starbuzz/Recipes.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/starbuzz/index.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/starbuzz/Location.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/starbuzz/starbuzz.css" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/starbuzz/blog.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter12/starbuzz/blog.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTML_CSS/Chapter12/starbuzz/starbuzz.css" />
+        <option value="$PROJECT_DIR$/Head_First_HTML_CSS/Chapter13/table.css" />
+        <option value="$PROJECT_DIR$/Head_First_HTML_CSS/Chapter13/index.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTML_CSS/Chapter13/journal.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTML_CSS/Chapter13/journal.css" />
+        <option value="$PROJECT_DIR$/Head_First_HTML_CSS/Chapter14/contest/form.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTML_CSS/Chapter14/starbuzz/index.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTML_CSS/Chapter14/starbuzz/form.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTML_CSS/Chapter14/starbuzz/styledform.html" />
+        <option value="$PROJECT_DIR$/Head_First_HTML_CSS/Chapter14/starbuzz/styledform.css" />
+        <option value="$PROJECT_DIR$/TreeHouse/CSS_Basics/css/style.css" />
+        <option value="$PROJECT_DIR$/TreeHouse/CSS_Layout_Basics/css/normalize.css" />
+        <option value="$PROJECT_DIR$/TreeHouse/CSS_Layout_Basics/index.html" />
+        <option value="$PROJECT_DIR$/TreeHouse/CSS_Layout_Basics/css/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="27" />
+    <option name="width" value="960" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML" type="462c0819:PsiDirectoryNode" />
+              <item name="C777" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MariaDB&#10;MySQL" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter12/starbuzz" />
+      <recent name="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter12" />
+      <recent name="$PROJECT_DIR$/Head_First_HTM_CSS" />
+      <recent name="$PROJECT_DIR$/TreeHouse/HTML_Basics/img" />
+      <recent name="$PROJECT_DIR$/TreeHouse/HTML_Basics/articles/2017" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TreeHouse/CSS_Layout_Basics" />
+      <recent name="$PROJECT_DIR$/TreeHouse/CSS_Layout_Basics/css" />
+      <recent name="$PROJECT_DIR$/Head_First_HTML_CSS/Chapter13" />
+      <recent name="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter12/starbuzz/videos" />
+      <recent name="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML/Head_First_HTM_CSS/Chapter5/index.html" />
+    <configuration name="playlist.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="playlist.js" working-dir="$PROJECT_DIR$/Head_First_HTML_JS/chapter3" />
+    <configuration name="playlist_store.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="playlist_store.js" working-dir="$PROJECT_DIR$/Head_First_HTML_JS/chapter3" />
+    <configuration name="scripts.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="scripts.js" working-dir="$PROJECT_DIR$/TreeHouse/JS_Basics" />
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="Node.js.playlist.js" />
+      <item itemvalue="Node.js.playlist_store.js" />
+      <item itemvalue="Node.js.scripts.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.scripts.js" />
+        <item itemvalue="Node.js.playlist_store.js" />
+        <item itemvalue="Node.js.playlist.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ed915c9-e4fd-4c99-9338-20902625b677" name="Default" comment="" />
+      <created>1523750970487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523750970487</updated>
+      <workItem from="1523750971620" duration="4816000" />
+      <workItem from="1523757637565" duration="1832000" />
+      <workItem from="1523760884358" duration="12527000" />
+      <workItem from="1523811979759" duration="24278000" />
+      <workItem from="1523923874838" duration="150000" />
+      <workItem from="1523924153545" duration="388000" />
+      <workItem from="1523924564794" duration="5537000" />
+      <workItem from="1524282858344" duration="68000" />
+      <workItem from="1524287669788" duration="3085000" />
+      <workItem from="1524335779192" duration="610000" />
+      <workItem from="1524345369877" duration="8316000" />
+      <workItem from="1524364738458" duration="31395000" />
+      <workItem from="1524457706706" duration="19033000" />
+      <workItem from="1524792716176" duration="5040000" />
+      <workItem from="1524803113119" duration="614000" />
+      <workItem from="1524803887458" duration="1228000" />
+      <workItem from="1524806418969" duration="726000" />
+      <workItem from="1524881614299" duration="7957000" />
+      <workItem from="1525440980940" duration="607000" />
+      <workItem from="1528057282276" duration="134000" />
+      <workItem from="1528430938709" duration="364000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="128705000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="960" height="1053" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4967462" visible="true" weight="0.23093683" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32934782" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.16862327" side_tool="true" weight="0.2347826" />
+      <window_info anchor="right" id="Database" order="0" weight="0.24218051" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.83137673" weight="0.32934782" />
+      <window_info anchor="right" id="Structure" order="4" sideWeight="0.5032538" side_tool="true" weight="0.13820705" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.19480519" />
+      <window_info id="Favorites" order="1" sideWeight="0.5021739" side_tool="true" weight="0.20915033" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="SVN Repositories" order="11" visible="true" weight="0.329718" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="9" weight="0.329718" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32934782" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3286334" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4967462" visible="true" weight="0.21447721" />
+      <window_info anchor="right" id="Structure" order="4" sideWeight="0.5032538" side_tool="true" weight="0.13820705" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32934782" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="9" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.83137673" weight="0.32934782" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="0" weight="0.24218051" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info active="true" anchor="bottom" id="SVN Repositories" order="11" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.16862327" side_tool="true" weight="0.2347826" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32934782" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.19565217" />
+      <window_info id="Favorites" order="1" sideWeight="0.5021739" side_tool="true" weight="0.20915033" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TreeHouse/CSS_Layout_Basics/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8904">
+          <caret line="424" column="4" lean-forward="true" selection-start-line="424" selection-start-column="4" selection-end-line="424" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TreeHouse/CSS_Layout_Basics/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter2/lounge.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter5/html/seattle_shuffle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter5/html/seattle_downtown.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_JS/chapter1/99energy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter6/about/directions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter6/text.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter6/beverages/elixir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter8/about/directions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Site/css/site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="72" column="16" lean-forward="true" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Habitat/CCYP/syb_Old/syb.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter8/lounge.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter6/lounge.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter7/journal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter7/journal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter9/lounge.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter9/lounge.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter10/lounge.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="117" column="10" selection-start-line="117" selection-start-column="10" selection-end-line="117" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter10/lounge.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/index.html" />
+    <entry file="file://$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/starbuzz.css" />
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter11/absolute/starbuzz.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/starbuzz/Recipes.html" />
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter11/absolute/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/starbuzz/Inventions.html" />
+    <entry file="file://$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/starbuzz/Location.html" />
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter13/table.css" />
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter13/index.html" />
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter12/starbuzz/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600">
+          <caret line="30" column="17" selection-start-line="16" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter12/starbuzz/starbuzz.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter12/starbuzz/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="60" column="69" selection-start-line="60" selection-start-column="69" selection-end-line="60" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter13/journal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter13/journal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter14/contest/contest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter14/starbuzz/styledform.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter14/starbuzz/starbuzz.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="59" column="8" lean-forward="true" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter14/starbuzz/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter14/starbuzz/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter14/contest/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter14/starbuzz/styledform.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="35" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TreeHouse/CSS_Basics/css/import-styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TreeHouse/CSS_Layout_Basics/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8904">
+          <caret line="424" column="4" selection-start-line="424" selection-start-column="4" selection-end-line="424" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TreeHouse/CSS_Basics/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="236" selection-start-line="236" selection-end-line="236" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TreeHouse/CSS_Layout_Basics/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TreeHouse/CSS_Layout_Basics/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
