@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>Optional Lab 4-1</title>
+
+    <style>
+
+        div {
+            width: 100px;
+            height: 50px;
+            font-size: 36px;
+            color: white;
+            text-align: center;
+            font-weight: bold;
+            border-radius: 10px;
+            background: blue;
+            position: relative;
+
+            /* Chrome and Safari */
+            -webkit-animation-name: ciwlogo;
+            -webkit-animation-duration: 6s;
+            -webkit-animation-timing-function: linear;
+            -webkit-animation-delay: 1s;
+            -webkit-animation-iteration-count: infinite;
+            -webkit-animation-direction: alternate;
+            -webkit-animation-play-state: running;
+
+            animation-name: ciwlogo;
+            animation-duration: 6s;
+            animation-timing-function: linear;
+            animation-delay: 1s;
+            animation-iteration-count: infinite;
+            animation-direction: alternate;
+            animation-play-state: running;
+        }
+
+        @-webkit-keyframes ciwlogo /* Chrome and Safari */
+        {
+            0% {background:blue; left: 0px; top: 0px;}
+            25% {background:darkblue; left: 0px; top: 75px;}
+            50% {background:lightblue; left: 400px; top: 75px;}
+            75% {background:darkblue; left: 400px; top: 0px;}
+            100% {background:blue; left: 0px; top: 0px;}
+        }
+
+        @keyframes ciwlogo
+        {
+            0% {background:blue; left: 0px; top: 0px;}
+            25% {background:darkblue; left: 0px; top: 75px;}
+            50% {background:lightblue; left: 400px; top: 75px;}
+            75% {background:darkblue; left: 400px; top: 0px;}
+            100% {background:blue; left: 0px; top: 0px;}
+        }
+    </style>
+
+</head>
+<body>
+
+<h1>CIW</h1>
+<p>
+An example of CSS3 animation.
+</p>
+
+<div>
+CIW
+</div>
+
+</body>
+</html>
