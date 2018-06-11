@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Lab 6-1</title>
+
+<script>
+
+/***********************************************
+  Define a function named myFunction().
+  The function displays an alert() when invoked.
+***********************************************/
+  function myFunction (){
+      alert("The page has loaded");
+}
+
+function showName() {
+    getName();
+    alert(userName);
+    document.write(userName);
+}
+
+function getName() {
+    userName = prompt("Please enter your name:","");
+}
+
+function returnValue() {
+    var myProduct;
+    myProduct = document.myForm.input1.value *
+        document.myForm.input2.value;
+    return myProduct;
+}
+
+
+</script>
+</head>
+
+
+<body>
+
+
+
+<h3>CIW Advanced HTML5 and CSS3 Specialist</h3>
+<hr />
+<form name="myForm">
+    Multiply   <input type="text" name="input1" />
+    By         <input type="text" name="input2" />
+    <input type="button" value="Result" onclick="alert('The result is ' + returnValue() + '.');" />
+</form>
+
+</body>
+</html>

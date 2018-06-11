@@ -35,57 +35,17 @@
     <favorites_list name="HTML" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C777/Lab_2-1/index.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="habitat.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C777/Lab_2-2/css/habitat.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/C777/Forms/OL_8-1/css/habitat.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="habitat.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/C777/Lab_2-3/css/habitat.css">
+      <file leaf-file-name="form.htm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/C777/Forms/OL_8-1/form.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C777/Lab_2-3/index.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C777/Lab_2-2/index.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="habitat.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C777/Lab_2-1/css/habitat.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            <state relative-caret-position="486">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -95,9 +55,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -121,47 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter2/directions.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter2/text.css" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter2/elixir.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter2/lounge.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter3/index.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter4/index.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter5/index.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter6/about/directions.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter6/lounge.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter6/beverages/elixir.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter6/text.css" />
-        <option value="$PROJECT_DIR$/Site/css/site.css" />
-        <option value="$PROJECT_DIR$/Site/index.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter7/journal.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter7/journal.css" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter9/lounge.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter9/lounge.css" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter10/lounge.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter10/lounge.css" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/index.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/starbuzz.css" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/absolute/starbuzz.css" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/absolute/index.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/starbuzz/Recipe.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/starbuzz/Inventions.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/starbuzz/Recipes.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/starbuzz/index.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/starbuzz/Location.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/starbuzz/starbuzz.css" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/starbuzz/blog.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter12/starbuzz/blog.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTML_CSS/Chapter12/starbuzz/starbuzz.css" />
-        <option value="$PROJECT_DIR$/Head_First_HTML_CSS/Chapter13/table.css" />
-        <option value="$PROJECT_DIR$/Head_First_HTML_CSS/Chapter13/index.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTML_CSS/Chapter13/journal.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTML_CSS/Chapter13/journal.css" />
-        <option value="$PROJECT_DIR$/Head_First_HTML_CSS/Chapter14/contest/form.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTML_CSS/Chapter14/starbuzz/index.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTML_CSS/Chapter14/starbuzz/form.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTML_CSS/Chapter14/starbuzz/styledform.html" />
-        <option value="$PROJECT_DIR$/Head_First_HTML_CSS/Chapter14/starbuzz/styledform.css" />
         <option value="$PROJECT_DIR$/TreeHouse/CSS_Basics/css/style.css" />
         <option value="$PROJECT_DIR$/TreeHouse/CSS_Layout_Basics/css/normalize.css" />
         <option value="$PROJECT_DIR$/TreeHouse/CSS_Layout_Basics/index.html" />
@@ -172,6 +91,47 @@
         <option value="$PROJECT_DIR$/C777/Lab_2-2/css/habitat.css" />
         <option value="$PROJECT_DIR$/C777/Lab_2-3/index.htm" />
         <option value="$PROJECT_DIR$/C777/Lab_2-3/css/habitat.css" />
+        <option value="$PROJECT_DIR$/C777/Lab_2-4/css/habitat.css" />
+        <option value="$PROJECT_DIR$/C777/Lab_3-1/Lab_3-1.htm" />
+        <option value="$PROJECT_DIR$/C777/Lab_3-2/index.htm" />
+        <option value="$PROJECT_DIR$/C777/Lab_3-2/css/habitat.css" />
+        <option value="$PROJECT_DIR$/C777/Lab_3-3/index.htm" />
+        <option value="$PROJECT_DIR$/C777/Lab_3-3/css/habitat.css" />
+        <option value="$PROJECT_DIR$/C777/Lab_3-4/css/habitat.css" />
+        <option value="$PROJECT_DIR$/C777/OL_3-1/OL_3-1.htm" />
+        <option value="$PROJECT_DIR$/C777/Adv CSS/Lab_4-1/css/habitat.css" />
+        <option value="$PROJECT_DIR$/C777/Adv CSS/Lab_4-1/index.htm" />
+        <option value="$PROJECT_DIR$/C777/Adv CSS/Lab_4-2/Lab_4-2.htm" />
+        <option value="$PROJECT_DIR$/C777/Adv CSS/Lab_4-3/index.htm" />
+        <option value="$PROJECT_DIR$/C777/Adv CSS/Lab_4-3/css/habitat.css" />
+        <option value="$PROJECT_DIR$/C777/Adv CSS/Lab_4-4/css/habitat.css" />
+        <option value="$PROJECT_DIR$/C777/Adv CSS/Lab_4-5/css/habitat.css" />
+        <option value="$PROJECT_DIR$/C777/Adv CSS/Lab_4-5/index.htm" />
+        <option value="$PROJECT_DIR$/C777/Adv CSS/OL_4-1/OL_4-1.htm" />
+        <option value="$PROJECT_DIR$/C777/JS/Lab_5-1/Lab_5-1.htm" />
+        <option value="$PROJECT_DIR$/C777/JS/Lab_5-2/Lab_5-2.htm" />
+        <option value="$PROJECT_DIR$/C777/JS/Lab_5-3/Lab_5-3.htm" />
+        <option value="$PROJECT_DIR$/C777/JS Events, Functions and Methods/Lab_6-1/Lab_6-1.htm" />
+        <option value="$PROJECT_DIR$/C777/JS Events, Functions and Methods/Lab_6-2/Lab_6-2.htm" />
+        <option value="$PROJECT_DIR$/C777/JS Events, Functions and Methods/Lab_6-2/Lab_6-2a.htm" />
+        <option value="$PROJECT_DIR$/C777/JS Events, Functions and Methods/Lab_6-2/Lab_6-2b.htm" />
+        <option value="$PROJECT_DIR$/C777/JS Events, Functions and Methods/Lab_6-3/Lab_6-3.htm" />
+        <option value="$PROJECT_DIR$/C777/JS Events, Functions and Methods/OL_6-1/OL_6-1.htm" />
+        <option value="$PROJECT_DIR$/C777/JS Events, Functions and Methods/OL_6-2/OL_6-2.htm" />
+        <option value="$PROJECT_DIR$/C777/JS Events, Functions and Methods/OL_6-4/OL_6-4.htm" />
+        <option value="$PROJECT_DIR$/C777/JS Events, Functions and Methods/OL_6-4/quiz.js" />
+        <option value="$PROJECT_DIR$/C777/HTML5 APIs/Lab_7-1/Canvas_API.html" />
+        <option value="$PROJECT_DIR$/C777/HTML5 APIs/Lab_7-3/Geolocation.html" />
+        <option value="$PROJECT_DIR$/C777/HTML5 APIs/Lab_7-4/Drag_and_Drop.html" />
+        <option value="$PROJECT_DIR$/C777/HTML5 APIs/Lab_7-5/File_API.html" />
+        <option value="$PROJECT_DIR$/C777/HTML5 APIs/OL_7-1/jQuery.htm" />
+        <option value="$PROJECT_DIR$/C777/Forms/Lab_8-1/form.htm" />
+        <option value="$PROJECT_DIR$/C777/Forms/Lab_8-2/form.htm" />
+        <option value="$PROJECT_DIR$/C777/Forms/Lab_8-2/css/habitat.css" />
+        <option value="$PROJECT_DIR$/C777/Forms/Lab_8-3/form.htm" />
+        <option value="$PROJECT_DIR$/C777/Forms/Lab_8-3/css/habitat.css" />
+        <option value="$PROJECT_DIR$/C777/Forms/Lab_8-4/form.htm" />
+        <option value="$PROJECT_DIR$/C777/Forms/OL_8-1/form.htm" />
       </list>
     </option>
   </component>
@@ -192,9 +152,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="960" />
     <option name="y" value="27" />
-    <option name="width" value="960" />
+    <option name="width" value="999" />
     <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -203,7 +162,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,28 +169,11 @@
               <item name="HTML" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="HTML" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-              <item name="C777" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-              <item name="C777" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab_2-3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-              <item name="C777" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab_2-3" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -256,7 +197,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -267,11 +208,11 @@
       <recent name="$PROJECT_DIR$/Head_First_HTML_CSS/Chapter13" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter12/starbuzz" />
-      <recent name="$PROJECT_DIR$/Head_First_HTM_CSS/Chapter12" />
-      <recent name="$PROJECT_DIR$/Head_First_HTM_CSS" />
-      <recent name="$PROJECT_DIR$/TreeHouse/HTML_Basics/img" />
-      <recent name="$PROJECT_DIR$/TreeHouse/HTML_Basics/articles/2017" />
+      <recent name="$PROJECT_DIR$/C777/Adv CSS" />
+      <recent name="$PROJECT_DIR$/C777/CSS3" />
+      <recent name="$PROJECT_DIR$/C777" />
+      <recent name="$PROJECT_DIR$/CSS" />
+      <recent name="$PROJECT_DIR$/C777/HTML5 Basics" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -286,23 +227,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.form.htm (1)">
+    <configuration name="form.htm (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML/C777/Forms/Lab_8-4/form.htm" />
+    <configuration name="form.htm" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML/C777/Forms/Lab_8-3/form.htm" />
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML/Head_First_HTM_CSS/Chapter5/index.html" />
-    <configuration name="playlist.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="playlist.js" working-dir="$PROJECT_DIR$/Head_First_HTML_JS/chapter3" />
     <configuration name="playlist_store.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="playlist_store.js" working-dir="$PROJECT_DIR$/Head_First_HTML_JS/chapter3" />
     <configuration name="scripts.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="scripts.js" working-dir="$PROJECT_DIR$/TreeHouse/JS_Basics" />
     <list>
       <item itemvalue="JavaScript Debug.index.html" />
-      <item itemvalue="Node.js.playlist.js" />
+      <item itemvalue="JavaScript Debug.form.htm" />
       <item itemvalue="Node.js.playlist_store.js" />
       <item itemvalue="Node.js.scripts.js" />
+      <item itemvalue="JavaScript Debug.form.htm (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.form.htm (1)" />
+        <item itemvalue="JavaScript Debug.form.htm" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Node.js.scripts.js" />
         <item itemvalue="Node.js.playlist_store.js" />
-        <item itemvalue="Node.js.playlist.js" />
       </list>
     </recent_temporary>
   </component>
@@ -337,12 +281,15 @@
       <workItem from="1525440980940" duration="607000" />
       <workItem from="1528057282276" duration="134000" />
       <workItem from="1528430938709" duration="364000" />
-      <workItem from="1528431437840" duration="2558000" />
+      <workItem from="1528431437840" duration="73556000" />
+      <workItem from="1528669857677" duration="229000" />
+      <workItem from="1528670133694" duration="154000" />
+      <workItem from="1528670578189" duration="11300000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131263000" />
+    <option name="totallyTimeSpent" value="214058000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -354,21 +301,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="27" width="960" height="1053" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="27" width="999" height="1053" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4967462" visible="true" weight="0.23529412" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32934782" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.16862327" side_tool="true" weight="0.2347826" />
-      <window_info anchor="right" id="Database" order="0" weight="0.24218051" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" weight="0.3286334" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.83137673" weight="0.32934782" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.0995671" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49639422" visible="true" weight="0.1138976" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" weight="0.24218051" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32934782" />
       <window_info anchor="right" id="Structure" order="4" sideWeight="0.5032538" side_tool="true" weight="0.13820705" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31709957" />
-      <window_info id="Favorites" order="1" sideWeight="0.5021739" side_tool="true" weight="0.20915033" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="1" sideWeight="0.5036058" side_tool="true" weight="0.15488215" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
       <window_info active="true" anchor="bottom" id="SVN Repositories" order="11" visible="true" weight="0.329718" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -378,14 +325,13 @@
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32934782" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4967462" visible="true" weight="0.21447721" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49639422" visible="true" weight="0.15488215" />
       <window_info anchor="right" id="Structure" order="4" sideWeight="0.5032538" side_tool="true" weight="0.13820705" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -398,11 +344,11 @@
       <window_info active="true" anchor="bottom" id="SVN Repositories" order="11" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.16862327" side_tool="true" weight="0.2347826" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3286334" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.19565217" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" weight="0.3286334" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.0995671" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="13" />
-      <window_info id="Favorites" order="1" sideWeight="0.5021739" side_tool="true" weight="0.20915033" />
+      <window_info id="Favorites" order="1" sideWeight="0.5036058" side_tool="true" weight="0.15488215" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,96 +392,343 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter1/index.html" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_JS/chapter1/99energy.html" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter5/index.html" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter6/about/directions.html" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter6/text.css" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter6/beverages/elixir.html" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter8/about/directions.html" />
-    <entry file="file://$PROJECT_DIR$/Site/css/site.css" />
-    <entry file="file://$PROJECT_DIR$/Habitat/CCYP/syb_Old/syb.css" />
-    <entry file="file://$PROJECT_DIR$/Site/index.html" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter8/lounge.html" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter6/lounge.html" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter7/journal.html" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter7/journal.css" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter9/lounge.html" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter9/lounge.css" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter10/lounge.html" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter10/lounge.css" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/index.html" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/starbuzz.css" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter11/absolute/starbuzz.css" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/starbuzz/Recipes.html" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter11/absolute/index.html" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/starbuzz/Inventions.html" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTM_CSS/Chapter11/starbuzz/Location.html" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter13/table.css" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter13/index.html" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter12/starbuzz/index.html" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter12/starbuzz/starbuzz.css" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter12/starbuzz/blog.html" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter13/journal.css" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter13/journal.html" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter14/contest/contest.php" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter14/starbuzz/styledform.css" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter14/starbuzz/starbuzz.css" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter14/starbuzz/index.html" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter14/starbuzz/form.html" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter14/contest/form.html" />
-    <entry file="file://$PROJECT_DIR$/Head_First_HTML_CSS/Chapter14/starbuzz/styledform.html" />
-    <entry file="file://$PROJECT_DIR$/TreeHouse/CSS_Basics/css/import-styles.css" />
-    <entry file="file://$PROJECT_DIR$/TreeHouse/CSS_Layout_Basics/css/normalize.css" />
-    <entry file="file://$PROJECT_DIR$/TreeHouse/CSS_Basics/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/TreeHouse/CSS_Layout_Basics/index.html" />
-    <entry file="file://$PROJECT_DIR$/TreeHouse/CSS_Layout_Basics/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/C777/.idea/php.xml">
+    <entry file="file://$PROJECT_DIR$/C777/CSS/Lab_2-3/css/habitat.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/CSS/Lab_2-4/css/habitat.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/CSS/Lab_2-4/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="45" selection-start-line="45" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/CSS3/Lab_3-2/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/CSS3/Lab_3-2/css/habitat.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/CSS3/Lab_3-3/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/CSS3/Lab_3-4/css/habitat.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C777/Lab_2-1/css/habitat.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C777/Lab_2-1/index.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C777/Lab_2-2/index.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C777/Lab_2-3/index.htm">
+    <entry file="file://$PROJECT_DIR$/C777/OL_3-1/OL_3-1.htm" />
+    <entry file="file://$PROJECT_DIR$/C777/Adv CSS/Lab_4-1/index.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
-          <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C777/Lab_2-2/css/habitat.css">
+    <entry file="file://$PROJECT_DIR$/C777/Adv CSS/Lab_4-2/Lab_4-2.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
+        <state relative-caret-position="56">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/Adv CSS/Lab_4-1/css/habitat.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="78" column="1" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/Adv CSS/Lab_4-3/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-195">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/Adv CSS/Lab_4-3/css/habitat.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="82" column="12" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/Adv CSS/Lab_4-4/css/habitat.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/Adv CSS/OL_4-1/OL_4-1.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/JS/Lab_5-1/Lab_5-1.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/JS/Lab_5-3/Lab_5-3.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/JS/Lab_5-2/Lab_5-2.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/Adv CSS/Lab_4-5/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/Adv CSS/Lab_4-5/css/habitat.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="80" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/Adv CSS/Lab_4-4/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/JS Events, Functions and Methods/Lab_6-1/Lab_6-1.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/JS Events, Functions and Methods/Lab_6-2/Lab_6-2.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/JS Events, Functions and Methods/OL_6-1/OL_6-1.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/JS Events, Functions and Methods/Lab_6-2/Lab_6-2a.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/JS Events, Functions and Methods/Lab_6-2/Lab_6-2b.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/JS Events, Functions and Methods/Lab_6-3/Lab_6-3.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/JS Events, Functions and Methods/OL_6-2/OL_6-2.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="62" column="21" lean-forward="true" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/JS Events, Functions and Methods/OL_6-3/OL_6-3.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="8" lean-forward="true" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/JS Events, Functions and Methods/OL_6-4/quiz.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/JS Events, Functions and Methods/OL_6-4/OL_6-4.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/HTML5 APIs/Lab_7-1/Canvas_API.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/HTML5 APIs/Lab_7-2/date.appcache">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/HTML5 APIs/Lab_7-2/date.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/HTML5 APIs/Lab_7-3/Geolocation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="69" column="36" selection-start-line="69" selection-start-column="36" selection-end-line="69" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/HTML5 APIs/Lab_7-4/logo/CIWLogo.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/HTML5 APIs/Lab_7-4/Drag_and_Drop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/HTML5 APIs/Lab_7-5/File_API.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/HTML5 APIs/Lab_7-2/date.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/HTML5 APIs/OL_7-1/jQuery.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C777/Lab_2-3/css/habitat.css">
+    <entry file="file://$PROJECT_DIR$/C777/HTML5 APIs/OL_7-1/css/habitat.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="-216" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/Forms/Lab_8-1/css/habitat.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="954">
+          <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/Forms/Lab_8-1/form.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/Forms/Lab_8-2/css/habitat.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="42" selection-start-line="42" selection-end-line="46" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/Forms/Lab_8-2/form.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="62" column="52" selection-start-line="62" selection-start-column="52" selection-end-line="62" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/Forms/Lab_8-3/form.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="55" column="43" selection-start-line="55" selection-start-column="43" selection-end-line="55" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/Forms/Lab_8-3/css/habitat.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/Forms/Lab_8-4/form.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="46" column="43" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/Forms/Lab_8-4/css/habitat.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/Forms/OL_8-1/css/habitat.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C777/Forms/OL_8-1/form.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
