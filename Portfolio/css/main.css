@@ -10,35 +10,90 @@ $color3: rgba(138, 161, 177, 1); #8AA1B1 Grey
 $color4: rgba(74, 80, 67, 1); #4A5043 Green
 $color5: rgba(255, 203, 71, 1); #FFCB47 Yellow
 */
+/* Pseudo-classes ------------------ */
+
+p {
+    font-family: "Cantarell", sans-serif;
+    text-indent: 30px;
+
+
+}
+
+
+a:link, a:visited{
+    color: #2196F3;
+    padding: 1px 4px;
+    text-decoration: none;
+}
+
+
+a:hover {
+    color:  #8AA1B1;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #8AA1B1;
+    text-decoration: underline;
+}
+
+a.current:link {
+    color: white;
+    text-decoration: underline;
+}
+
 
 nav
 {
-    padding: 25px;
+    padding: 5px;
     display: block;
     text-align: right;
+    height: 15px;
+    vertical-align: top;
 }
 
-p {
-    font-family: "Monsterrat", sans-serif;
+.preNav {
+    text-align: right;
+    display: block;
+    height: 35px;
+    padding: 15px;
+    margin-top: 5px;
 }
+
+
+.meTitle {
+    margin-left: 12%;
+    height: 350px;
+    vertical-align: bottom;
+    font-family: 'Cantarell', sans-serif;
+    font-size: 6.65rem;
+    font-weight: bold;
+    padding: 15px;
+    text-rendering: optimizeLegibility;
+    color: #4caf50;
+    text-shadow: 4px 16px 12px rgba(0, 0, 0, 0.5),
+    0px -2px 35px rgba(0, 0, 0, 0.3);
+
+
+}
+
 
 .footer{
     width: 100%;
     height: 200px;
-    background: #1e130c;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to top, #9a8478, #1e130c);  /* Chrome 10-25, Safari 5.1-6*/
-    background: linear-gradient(to top, #9a8478, #1e130c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+*/
+    -moz-box-shadow:  -0px 5px 12px 2px lightgray;
+    -webkit-box-shadow:  -0px 5px 12px 2px lightgray;
+    box-shadow: -0px 5px 12px 2px lightgray;
     display: inline-block;
-    margin-top: 5px;
-
+    margin-top: 5px
 }
 
 .footerContent{
     width: 80%;
     margin: auto;
-    padding: 5px;
+    padding: 125px 5px 5px 5px;
     text-align: center;
-    padding-top: 85px;
+    vertical-align: bottom;
 
 }
 
@@ -49,127 +104,91 @@ hr {
     border: 0;
     border-top: 1px solid #ccc;
     padding: 0;
-    width: 60%;
-    margin-left: 20%;
-}
-
-/* Pseudo-classes ------------------ */
-
-a:link, a:visited{
-    color: #FFCC4A;
-    padding: 1px 4px;
-    text-decoration: none;
-    text-shadow: 0 0 0.2em #000000
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
-a:hover {
-    color: #e7e7ee;
-    text-decoration: underline;
-}
 
-a:active {
-    color: #e7e7ee;
-    text-decoration: underline;
-}
+/*Headers*/
 
-a.current:link {
-    color: white;
-    text-decoration: underline;
-}
 
-/*Header*/
-.main-header {
-    width: 100%;
-    margin-top: 5px;
-    height: 350px; /* height of the background image? */
+.pic-header {
+    margin-top: 24%;
+    height: 400px; /* height of the background image? */
     background:url("../img/MtnHeader.png") no-repeat center;
     background-blend-mode: multiply;
     background-size: cover;
-    -moz-box-shadow: 0 0 5px #888;
-    -webkit-box-shadow: 0 0 5px#888;
-    box-shadow: 0 0 5px #888;
-    margin-bottom: 75px;
+    -moz-box-shadow:  -0px 5px 12px 2px lightgray;
+    -webkit-box-shadow:  -0px 5px 12px 2px lightgray;
+    box-shadow: -0px 5px 12px 2px lightgray;
+
+
 }
 
 .me-image {
-    border-radius: 20px;
+    border-radius: 30%;
     margin: 25px;
-    /*
-    border: black 2px solid;
-
-    background: #603813; /* fallback for old browsers
-    background: -webkit-linear-gradient(to top, #b29f94, #603813);  /* Chrome 10-25, Safari 5.1-6
-    background: linear-gradient(to top, #b29f94, #603813); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+
-*/
-    background: #1e130c;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to top, #9a8478, #1e130c);  /* Chrome 10-25, Safari 5.1-6*/
-    background: linear-gradient(to top, #9a8478, #1e130c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+*/
+    float: right;
+    background-image: linear-gradient(to left, #BDBBBE 0%, #9D9EA3 100%), radial-gradient(88% 271%, rgba(255, 255, 255, 0.25) 0%, rgba(254, 254, 254, 0.25) 1%, rgba(0, 0, 0, 0.25) 100%), radial-gradient(50% 100%, rgba(255, 255, 255, 0.30) 0%, rgba(0, 0, 0, 0.30) 100%);
+    background-blend-mode: normal, lighten, soft-light;}
 
 
-}
 
-/* Title Name*/
-.title {
-    font-family: 'Lora', serif;
-    font-size: 5rem;
-    padding: 5px;
-    text-align: center;
-    text-rendering: optimizeLegibility;
-    margin-top: 250px;
-    width: 100%;
-}
 
-/*Text Effects*/
-.deepshadow {
-    color: whitesmoke;
-    letter-spacing: .05em;
-    text-shadow: 0 -1px 0 #fff,
-    0 1px 0 #2e2e2e,
-    0 2px 0 #2c2c2c,
-    0 3px 0 #2a2a2a,
-    0 4px 0 #282828,
-    0 5px 0 #262626,
-    0 6px 0 #242424,
-    0 7px 0 #222,
-    0 8px 0 #202020,
-    0 9px 0 #1e1e1e,
-    0 10px 0 #1c1c1c,
-    0 11px 0 #1a1a1a,
-    0 12px 0 #181818,
-    0 13px 30px rgba(0, 0, 0, 0.9);
-}
+
+
 
 .navlinks {
-    padding: 2px 5px;
-    font-family: 'Lora', serif;
-    font-size: 1.75em;
+    padding: 2px 10px;
+    font-family: 'Cantarell', serif;
+    font-size: 2.25em;
     width: 100%;
     font-weight: bold;
+    color: #FFCB47;
+    text-shadow: 2px 8px 6px rgba(0,0,0,0.2),
+    0px -5px 35px rgba(255,255,255,0.3);
 
 }
 
 .about{
-    width: 98%;
+
     box-sizing: border-box;
-    font-family: 'Lora', serif;
+    font-family: Cantarell, sans-serif;
     float: left;
     border-radius: 3px;
-    margin-left: 20px;
     margin-bottom: 50px;
     font-size: 1.35em;
+    padding: 15px;
+    -moz-box-shadow:  -0px 5px 12px 2px lightgray;
+    -webkit-box-shadow:  -0px 5px 12px 2px lightgray;
+    box-shadow: -0px 5px 12px 2px lightgray;
 
 }
 .aboutSkills{
-    width: 80%;
+    display: inline-block;
+    width: 55%;
     padding: 15px;
-    margin-top: 55px;
+    margin-top: 1px;
     margin-bottom: 150px;
-    margin-left: 150px;
-    font-family: 'Lora', serif;
+    font-family: 'Cantarell', serif;
+    margin-left: 5px;
+    float: left;
+    height: 700px;
 
+}
 
-
+.aboutCerts {
+    display: inline-block;
+    width: 40%;
+    padding: 15px;
+    margin-top: 1px;
+    margin-bottom: 150px;
+    float: right;
+    height: 700px;
+    text-align: center;
+    border-left: 1px solid #ccc;
 }
 .aboutRightt{
     width: 45%;
@@ -178,10 +197,14 @@ a.current:link {
     margin-bottom: 50px;
 }
 
+.certImage {
+
+}
+
 /*Transitions Animations */
 #slideRight{
     position: absolute;
-    left: -950px;
+    left: -1050px;
     -webkit-animation: slideRight 1.5s forwards;
     -webkit-animation-delay: 0.5s;
     animation: slideRight 1.5s forwards;
@@ -195,13 +218,18 @@ a.current:link {
     -webkit-animation-delay: 0.5s;
     animation: slideLeft 1.5s forwards;
     animation-delay: 0.5s;
+
 }
+
+
 
 
 .container {
     width: 90%;
     background-color: #ddd;
     border-radius: 5px;
+    text-align: left;
+    margin-left: 5px;
 
 
 }
@@ -211,26 +239,26 @@ a.current:link {
     padding: 10px;
     color: white;
     border-radius: 5px;
-    font-family: 'Lora', serif;
+    font-family: Cantarell, sans-serif;
     font-size: 1.35em;
 
 
 }
 
-.html {width: 70%; background-color: #4CAF50;}
+.html {width: 70%; background-color: #FFCB47;}
 .css {width: 70%; background-color: #2196F3;}
 .js {width: 15%; background-color: #f44336;}
 .java {width: 45%; background-color: #808080;}
-.sql {width: 15%; background-color: #FFCB47;}
+.sql {width: 15%; background-color: #4caf50;}
 
 /* Floated Columns ------------------ */
 .column {
     box-sizing: border-box;
-    font-family: 'Lora', serif;
+    font-family: Cantarell, sans-serif;;
     float: left;
-    width: 32.5%;
+    width: 32%;
     text-align: center;
-    padding: 10px;
+    padding: 2px;
     border-radius: 3px;
     height: 600px;
     margin-bottom: 150px;
@@ -245,7 +273,7 @@ a.current:link {
 
 .column2 {
     box-sizing: border-box;
-    font-family: 'Lora', serif;
+    font-family: Cantarell, sans-serif;;
     float: left;
     width: 24.2%;
     text-align: center;
@@ -261,7 +289,24 @@ a.current:link {
     box-shadow: 0 0 5px #888;
 
 }
+.projects {
+    box-sizing: border-box;
+    font-family: Cantarell, sans-serif;
+    float: left;
+    border-radius: 3px;
+    margin-bottom: 50px;
+    font-size: 1.35em;
+    padding: 15px;
+    width: 100%;
+    -moz-box-shadow:  -0px 5px 12px 2px lightgray;
+    -webkit-box-shadow:  -0px 5px 12px 2px lightgray;
+    box-shadow: -0px 5px 12px 2px lightgray;
+}
 
+.recentPosts{
+    height: 700px;
+    width: 100%;
+}
 /* Clear floats after the columns */
 .row:after {
     content: "";
@@ -270,7 +315,7 @@ a.current:link {
 }
 
 .vl {
-    border-left: 3px solid #FFCB47;
+    border-left: 3px solid#2196F3;
     height: 90px;
     left: 50%;
     margin-left: -3px;
@@ -278,7 +323,7 @@ a.current:link {
 }
 
 .vl2 {
-    border-left: 3px solid  #FFCB47;
+    border-left: 3px solid #2196F3;
     height: 250px;
     left: 50%;
     margin-left: -3px;
@@ -286,7 +331,7 @@ a.current:link {
 }
 .arrow {
     margin-top: 200px;
-    margin10-left: 50%;
+    margin-left: 50%;
     margin-bottom: 0;
 
 
@@ -294,14 +339,10 @@ a.current:link {
 
 img {
     vertical-align: center;
-    float:left;
     margin-top: auto;
-    border-radius: 30%;
     display: block;
     margin-left: auto;
     margin-right: auto;
-
-
 }
 
 @-webkit-keyframes slideRight {
@@ -322,24 +363,27 @@ img {
 }
 
 
-html, body {
-    margin: 0;
-    padding: 1px;
+html,
+body {
+    font-family: Cantarell, sans-serif;
+
 }
 .social {
     top: 10px;
-    font-family: 'Lora', serif;
-    font-size: 16px;
+    font-size: 24px;
 }
 .social ul {
-    margin-top: 5%;
-    padding: 0px;
-    -webkit-transform: translate(-270px, 0);
-    -moz-transform: translate(-270px, 0);
-    -ms-transform: translate(-270px, 0);
-    -o-transform: translate(-270px, 0);
-    transform: translate(-270px, 0);
+    display: inline-block;
+    margin-top: 90px;
+    padding: 1px;
+    -webkit-transform: translate(-255px, 0);
+    -moz-transform: translate(-255px, 0);
+    -ms-transform: translate(-255px, 0);
+    -o-transform: translate(-255px, 0);
+    transform: translate(-255px, 0);
+
 }
+
 .social ul li {
     display: block;
     margin: 5px;
@@ -389,8 +433,8 @@ html, body {
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%;
-    width: 20px;
-    height: 20px;
+    width: 30px;
+    height: 30px;
     font-size: 20px;
     -webkit-transform: rotate(0deg);
     -moz-transform: rotate(0deg);

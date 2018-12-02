@@ -8,4 +8,5 @@ html, body, canvas {
 
 canvas {
 	display: block;
+	javascript:void
 }

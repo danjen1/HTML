@@ -1,0 +1,303 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body
+{
+    font-family: Cantarell, "Cantarell Thin", sans-serif;
+}
+
+
+
+
+
+
+
+/* Style the navigation bar links */
+.navbar a {
+    text-decoration: none;
+    font-size: 2.25em;
+    font-weight: bold;
+    color: #2196F3;
+    text-shadow: 2px 8px 6px rgba(0,0,0,0.2),
+    0 -5px 35px rgba(255,255,255,0.3);
+
+}
+
+/* Right-aligned link */
+.navbar a.right {
+    float:right;
+}
+
+.navbar a.center {
+    padding-top: 55px;
+    display: inline;
+
+}
+
+/* Change color on hover */
+.navbar a:hover {
+    color:  #8AA1B1;
+    text-decoration: underline;
+}
+
+/* Active/current link */
+.navbar a.active {
+    color: #8AA1B1;
+    text-decoration: underline;
+}
+
+
+
+
+/* Column containers */
+.about{
+
+    box-sizing: border-box;
+    font-family: Cantarell, sans-serif;
+    float: left;
+    border-radius: 3px;
+    margin-bottom: 50px;
+    font-size: 1.35em;
+    padding: 15px;
+    -moz-box-shadow:  -0px 5px 12px 2px lightgray;
+    -webkit-box-shadow:  -0px 5px 12px 2px lightgray;
+    box-shadow: -0px 5px 12px 2px lightgray;
+
+}
+
+
+
+.container {
+    width: 90%;
+    background-color: #ddd;
+    border-radius: 5px;
+    text-align: left;
+    margin-left: 5px;
+
+
+}
+
+
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#aboutSkills{
+    display: inline-block;
+    width: 55%;
+    padding: 15px;
+    margin-top: 1px;
+    margin-bottom: 150px;
+    font-family: 'Cantarell', serif;
+    margin-left: 5px;
+    float: left;
+    height: 700px;
+
+}
+
+#aboutCerts {
+    display: inline-block;
+    width: 40%;
+    padding: 15px;
+    margin-top: 1px;
+    margin-bottom: 150px;
+    float: right;
+    height: 700px;
+    text-align: center;
+    border-left: 1px solid #ccc;
+}
+
+/*Create a Column Full Width */
+
+.row {
+    -ms-flex-wrap: wrap; /* IE10 */
+    flex-wrap: wrap;
+}
+
+/* Create two unequal columns that sits next to each other */
+.side {
+    -ms-flex: 30%; /* IE10 */
+    flex: 30%;
+    padding: 20px;
+    display: inline-block;
+    width: 40%;
+    margin-top: 1px;
+    margin-bottom: 150px;
+    float: right;
+    height: 700px;
+    text-align: center;
+    border-left: 1px solid #ccc;
+}
+
+/* Main column */
+.main {
+    -ms-flex: 70%; /* IE10 */
+    flex: 70%;
+    background-color: white;
+    padding: 20px;
+    float: left;
+    display: inline-block;
+    width: 55%;
+    margin-top: 1px;
+    margin-bottom: 150px;
+    font-family: 'Cantarell', serif;
+    margin-left: 5px;
+    height: 700px;
+}
+
+
+/* Certification Images */
+.certImage {
+    display: inline-block;
+    padding: 2px;
+    height: 125px;
+    width: 125px;
+}
+
+
+/* Footer */
+
+.footer{
+    width: 100%;
+    height: 200px;
+    -moz-box-shadow:  -0px 5px 12px 2px lightgray;
+    -webkit-box-shadow:  -0px 5px 12px 2px lightgray;
+    box-shadow: -0px 5px 12px 2px lightgray;
+    display: inline-block;
+    margin-top: 5px
+}
+
+.footerContent{
+    width: 80%;
+    margin: auto;
+    padding: 125px 5px 5px 5px;
+    vertical-align: bottom;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    color: #2196F3;
+    text-shadow: 2px 8px 6px rgba(0,0,0,0.2),
+    0 -5px 35px rgba(255,255,255,0.3);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+* {
+    box-sizing: border-box;
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+[class*="col-"] {
+    float: left;
+    padding: 8px;
+}
+
+
+/* Header/logo Title */
+.header {
+    background:url("../img/MtnHeader.png") no-repeat center;
+    background-blend-mode: multiply;
+    background-size: cover;
+    -moz-box-shadow:  -0px 5px 12px 2px lightgray;
+    -webkit-box-shadow:  -0px 5px 12px 2px lightgray;
+    box-shadow: -0px 5px 12px 2px lightgray;
+}
+/* Name Format */
+.nameTitle {
+    margin-left: 12%;
+    font-size: 6.65rem;
+    font-weight: bold;
+    padding: 15px;
+    text-rendering: optimizeLegibility;
+    color: #4caf50;
+    text-shadow: 4px 16px 12px rgba(0, 0, 0, 0.5),
+    0 -2px 35px rgba(0, 0, 0, 0.3);
+}
+/* Increase the font size of the heading */
+.header h1 {
+    font-size:64px;
+    text-decoration: underline;
+    font-family: 'Cantarell Thin', sans-serif;
+    text-align: center;
+}
+
+
+
+
+.navbar {
+    vertical-align: bottom;
+    float: right;
+    padding: 1px;
+}
+
+
+.aside {
+    background-color: #33b5e5;
+    padding: 15px;
+    color: #ffffff;
+    text-align: center;
+    font-size: 14px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+.footer {
+    background-color: #0099cc;
+    color: #ffffff;
+    text-align: center;
+    font-size: 12px;
+    padding: 15px;
+}
+/* For mobile phones: */
+[class*="col-"] {
+    width: 100%;
+}
+@media only screen and (min-width: 600px) {
+    /* For tablets: */
+    .col-s-1 {width: 8.33%;}
+    .col-s-2 {width: 16.66%;}
+    .col-s-3 {width: 25%;}
+    .col-s-4 {width: 33.33%;}
+    .col-s-5 {width: 41.66%;}
+    .col-s-6 {width: 50%;}
+    .col-s-7 {width: 58.33%;}
+    .col-s-8 {width: 66.66%;}
+    .col-s-9 {width: 75%;}
+    .col-s-10 {width: 83.33%;}
+    .col-s-11 {width: 91.66%;}
+    .col-s-12 {width: 100%;}
+}
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+}
