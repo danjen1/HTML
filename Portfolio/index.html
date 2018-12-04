@@ -1,116 +1,157 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
     <title>Daniel Jenkins</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="css/main.css"/>
-    <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
-
-    <style>
-        @import url('https://fonts.googleapis.com/css?family=Lora|Montserrat');
-    </style>
-    <script src="js/main.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 </head>
-<a name="Back To Top"></a>
-<div class="spacing">
-<div class="preNav">
-
-        <nav >
-            <a class="navlinks" href="#Back To Top">Home</a>
-            <a class="navlinks vl" href="#About">About</a>
-            <a class="navlinks vl" href="#Projects">Projects  </a>
-            <a class="navlinks vl" href="index.html">Blog</a>
-            <a class="navlinks vl" href="index.html">Contact</a>
+<a id="Back To Top"></a>
+<div id="page">
+    <nav class="navbar">
+        <a class="vlR vlL" href="#Back To Top">Home</a>
+        <a class="vlR" href="#About">About</a>
+        <a class="vlR" href="#Projects">Projects</a>
+        <a class="vlR" href=#Blog>Blog</a>
+        <a class="vlR" href=#Contact>Contact</a>
+    </nav>
+    <header>
+        <div class="social">
+            <ul>
+                <li><a href="https://twitter.com/dan_jen1">Twitter <i class="fab fa-twitter"></i></a></li>
+                <li><a href="https://facebook.com/">Facebook <i class="fab fa-facebook"></i></a></li>
+                <li><a href="http://gitlab.com/dan_jen1">GitLab <i class="fab fa-gitlab"></i></a></li>
+            </ul>
+        </div>
+    </header>
+    <a id="About"></a>
+    <body>
+    <h1 class="htfB">Daniel Jenkins</h1>
+    <section>
+        <article class="projects">
+            <p>
+                <img class="me-image" src="img/Me_Solo.png" >
+            </p>
+            <p>
+                I am currently a student studying Computer Science at Western Governor's University with a planned graduation date
+                November 2019.  I have decades of experience in the wireless industry working for tech giants like Verizon Wireless
+                and currently Apple on the consumer sides of their businesses.  I have years of experience successfully managing team's
+                of diverse people to produce top-level results.
+            </p>
+            <p>
+                I've always loved computers, technology and am a Linux enthusiast. I decided just before turning 40 to learn software development
+                to create. My Object Oriented Focus is in Java and I have additional development certifications outlined in the Skills
+                summary.  I will be building out this webpage as I learn new skills and put them to use eventually with a full functioning
+                blog to share my story as I continue down this path of "becoming a software developer"
+            <p>
+                It's amazing to see how far you can come just by sitting down and coding. I've re-written this site now I don't know how many times.
+                Each time gets a little more refined and I'm excited to see my progress and what the final iteration of this site will look like.  Stay Tuned!
+            </p>
+        </article>
+    </section>
+    <div class="row">
+        <section class="skills col-6">
+            <h1 class="htfG ">Skills</h1>
+            <article class="projects skillsContainer">
+                <i  class="fab fa-html5 fa-4x"></i><h1 class="skillsHead"> HTML5</h1>
+                <div class="skillsText html">70%</div>
+                <br>
+                <i class="fab fa-css3 fa-4x"></i><h1 class="skillsHead">  CSS3</h1>
+                <div class="skillsText css">70%</div>
+                <br>
+                <i class="fab fa-java fa-4x"></i><h1 class="skillsHead">  Java</h1>
+                <div class="skillsText java">45%</div>
+                <br>
+                <i class="fab fa-js-square fa-4x"></i><h1 class="skillsHead">  JavaScript</h1>
+                <div class="skillsText js">25%</div>
+                <br>
+                <i class="fas fa-file-code fa-4x"></i><h1 class="skillsHead">  SQL</h1>
+                <div class="skillsText sql">25%</div>
+                <br>
+            </article>
+        </section>
+        <section class="certs col-6">
+            <h1 class="htfG">Certified</h1>
+            <article class="projects certsContainer">
+                <img class="certImage" src="img/ProjPlus.jpg">
+                <img class="certImage" src="img/Aplus.jpg"><br>
+                <img class="certImage" src="img/site_dev_assoc.jpg"><br>
+                <img class="certImage" src="img/AdvHTML5&CSS3_sp.jpg">
+                <img class="certImage" src="img/UserInterface_sp.jpg">
+            </article>
+        </section>
+    </div>
+    <div class="row">
+        <section>
+            <a id="Projects"></a>
+            <h1 class="htfG">Projects</h1>
+            <article class="col-4 projects projLeft">
+       <span style="color:red"> <h1 class="projects">Project 1</h1>
+        <i class="fa fa-code fa-10x"></i></span>
+            </article>
+            <hr class="projects">
+            <article class="col-4 projects projCenter">
+        <span style="color:#FFCB47"><h1 class="projects">Project 2</h1>
+        <i class="fa fa-terminal fa-10x"></i></span>
+            </article>
+            <hr class="projects">
+            <article class="col-4 projects projRight">
+        <span style="color:blue"><h1 class="projects">Project 3</h1>
+        <i class="fab fa-free-code-camp fa-10x"></i></span>
+            </article>
+        </section>
+    </div>
+    <div class="row">
+        <section>
+            <h1 class="htfG">Blog</h1>
+            <a id="Blog"></a>
+            <article class="col-6 projects card">
+                <h2>TITLE HEADING</h2>
+                <h5>Title description, Dec 7, 2017</h5>
+                <div class="fakeimg" style="height:50px;">Image</div>
+                <p class="blog">Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                    Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+                <p><a href="Blog.html">Read More</a></p>
+            </article>
+            <hr class="projects">
+            <article class="col-6 projects card">
+                <h2>TITLE HEADING</h2>
+                <h5>Title description, Dec 7, 2017</h5>
+                <div class="fakeimg" style="height:50px;">Image</div>
+                <p class="blog">Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                    Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+                <p><a href="Blog.html">Read More</a></p>
+            </article>
+            <hr class="projects">
+            <article class="col-6 projects card">
+                <h2>TITLE HEADING</h2>
+                <h5>Title description, Dec 7, 2017</h5>
+                <div class="fakeimg" style="height:50px;">Image</div>
+                <p class="blog">Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                    Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+                <p><a href="Blog.html">Read More</a></p>
+            </article>
+            <hr class="projects">
+            <article class="col-6 projects card">
+                <h2>TITLE HEADING</h2>
+                <h5>Title description, Dec 7, 2017</h5>
+                <div class="fakeimg" style="height:50px;">Image</div>
+                <p class="blog">Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                    Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+                <p><a href="Blog.html">Read More</a></p>
+            </article>
+        </section>
+    </div>
+    </body>
+    <footer>
+        <nav class="footer">
+            <a class="vlL vlR" href="#Back To Top">Home</a>
+            <a class="vlR" href="#About">About</a>
+            <a class="vlR" href="#Projects">Projects</a>
+            <a class="vlR" href="index.html">Blog</a>
+            <a class="vlR" href="index.html">Contact</a>
         </nav>
-</div>
-<header class="pic-header">
-    <div class="social">
-        <ul>
-            <li><a href="https://twitter.com/dan_jen1">Twitter <i class="fa fa-twitter"></i></a></li>
-            <li><a href="https://facebook.com/">Facebook <i class="fa fa-facebook"></i></a></li>
-            <li><a href="http://github.com/gian_michelle">GitHub <i class="fa fa-github"></i></a></li>
-        </ul>
-    </div>
-    <div class="meTitle" id="slideRight">
-        Daniel Jenkins
-    </div>
-</header>
-
-<body>
-<a name="About"></a>
-<div class="about">
-        <img class="me-image" src="img/Me_Solo.png" height="375px" width="375px"><br>
-    <p>
-        I am currently a student studying Computer Science at Western Governor's University with a planned graduation date
-        November 2019.  I have decades of experience in the wireless industry working for tech giants like Verizon Wireless
-        and currently Apple on the consumer sides of their businesses.  I have years of experience successfully managing team's
-        of diverse people to produce top-level results.
-    </p>
-    <p>
-        I've always loved computers, technology and am a Linux enthusiast. I decided just before turning 40 to learn software development
-        to create. My Object Oriented Focus is in the Java language and have additional development certifications outlined in the Skills
-        summary.  I will be building out this webpage as I learn new skills and put them to use eventually with a full functioning
-        blog to share my story as I continue down this path of "becoming a software developer"
-    </p>
-</div>
-<div class="aboutSkills">
-    <h1 style="font-size:64px;text-decoration: underline; font-family: 'Cantarell Thin', sans-serif; text-align: center">Skills</h1>
-    <span style="font-size:30px; font-family: 'Cantarell', sans-serif;">HTML</span><br>
-    <div class="container">
-        <div class="skills html">70%</div>
-    </div><br>
-    <span style="font-size:30px; font-family:'Cantarell',sans-serif;">CSS</span><br>
-    <div class="container">
-        <div class="skills css">70%</div>
-    </div><br>
-    <span style="font-size:30px; font-family: 'Cantarell', sans-serif;">Java</span><br>
-    <div class="container">
-        <div class="skills java">45%</div>
-    </div><br>
-    <span style="font-size:30px; font-family:'Cantarell', sans-serif;">JavaScript</span><br>
-    <div class="container">
-        <div class="skills js">15%</div>
-    </div><br>
-    <span style="font-size:30px; font-family:'Cantarell', sans-serif;">SQL</span><br>
-    <div class="container">
-        <div class="skills sql">15%</div>
-    </div>
-</div>
-<div class="aboutCerts">
-    <h1 style="font-size:64px;font-family:'Cantarell Thin', sans-serif; text-decoration: underline; text-align: center">Certifications</h1>
-    <br>
-    <img class="certImage" src="img/AdvHTML5&CSS3_sp.jpg" height=125px", width="125px", align="center">
-    <img class="certImage" src="img/site_dev_assoc.jpg"  height="125px", width="125px", align="center">
-    <img class="certImage" src="img/AdvHTML5&CSS3_sp.jpg" height="125px", width="125px", align="center"><br><br><br>
-    <img class="certImage" src="img/AdvHTML5&CSS3_sp.jpg" height=125px", width="125px", align="center">
-    <img class="certImage" src="img/site_dev_assoc.jpg" height="125px", width="125px", align="center">
-    <img class="certImage" src="img/AdvHTML5&CSS3_sp.jpg" height="125px", width="125px", align="center"><br><br><br>
-    <img class="certImage" src="img/AdvHTML5&CSS3_sp.jpg" height=125px", width="125px", align="center">
-    <img class="certImage" src="img/site_dev_assoc.jpg" height="125px", width="125px", align="center">
-    <img class="certImage" src="img/AdvHTML5&CSS3_sp.jpg"  height="125px", width="125px", align="center">
-</div>
-
-<div class="projects">
-    <h1 style="font-size:64px;font-family:'Cantarell Thin', sans-serif; text-decoration: underline; text-align: center">Projects</h1>
-    <br>
-</div>
-
-<div class="projects">
-    <h1 style="font-size:64px;font-family:'Cantarell Thin', sans-serif; text-decoration: underline; text-align: center">Recent Posts</h1>
-    <br>
-</div>
-</body>
-</div>
-<div class="footer">
-<footer class="footerContent">
-
-            <a class="navlinks" href="#Back To Top">Home</a>
-            <a class="navlinks vl" href="#About">About</a>
-            <a class="navlinks vl" href="#Projects">Projects  </a>
-            <a class="navlinks vl" href="index.html">Blog</a>
-            <a class="navlinks vl" href="index.html">Contact</a>
-
-</footer>
-</div>
+    </footer>
 </div>
 </html>
