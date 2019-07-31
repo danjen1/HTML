@@ -5,6 +5,7 @@
 html,
 body {
     font-family: "Cantarell", "Cantarell Thin", sans-serif;
+    margin: 0 24px 0 24px;
 }
 
 a{
@@ -27,7 +28,7 @@ header {
     -moz-box-shadow:  -0px 5px 12px 2px lightgray;
     -webkit-box-shadow:  -0px 5px 12px 2px lightgray;
     box-shadow: -0px 5px 12px 2px lightgray;
-    border-radius: 2px;
+    border-radius: 4px;
     margin: 0;
     padding: 0;
 }
@@ -36,22 +37,20 @@ header {
 
 h1.htfB {
     text-align: center;
-    margin: 25px auto;
-    color: whitesmoke;
-    font-size: 2.75em;
+    color: white;
+    font-size: 3.75em;
     font-weight: bold;
     text-decoration-color: #2196F3;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15);
 }
 
 h1.htfG {
     text-align: left;
     margin: auto;
     color: black;
-    text-decoration:  underline overline;
     font-size: 2.75em;
     font-weight: bold;
-    text-decoration:  underline overline;
+    text-decoration:  underline ;
     text-decoration-color: #2196F3;
     text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15);
 }
@@ -87,19 +86,23 @@ hr.projects {
 nav {
     text-align: center;
     padding: 30px 0 0 0;
-    text-shadow: 2px 2px 4px #000000;
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 nav a {
     text-align: center;
-    padding: 1px 2px;
+    padding: 4px 8px;
     text-decoration: none;
-    font-size: 1.4em;
-    color: wheat;
+    font-size: 1.25em;
+    color: #2196F3;
 }
 
 nav a:hover {
-    text-decoration: underline;
+    color: #FFCB47;
+    text-decoration: underline #2196F3;
+
 }
 
 /* Article Styling */
@@ -120,20 +123,20 @@ section::after {
 .social {
     font-size: 24px;
 }
+
 .social ul {
     display: inline-block;
-    margin-top: 0px;
     padding: 1px;
+
 }
 
 .social ul li {
     display: block;
-    margin: 5px;
+    margin: 2px 0 0 -310px;
     background: rgba(0, 0, 0, 0.36);
-    width: 285px;
+    width: 310px;
     text-align: right;
     padding: 5px;
-    margin-left: -245px;
     -webkit-border-radius: 0 30px 30px 0;
     -moz-border-radius: 0 30px 30px 0;
     border-radius: 0 30px 30px 0;
@@ -143,28 +146,31 @@ section::after {
     -o-transition: all 1s;
     transition: all 1s;
 }
+
+.social ul a {
+    color: #FFCB47;
+}
 .social ul li:hover {
     background: rgba(255, 255, 255, 0.4);
 }
 .social ul li:hover a {
-    color: #fff;
+    color: #FFCB47;
 }
 .social ul li:hover i {
-    color: #b9b9b9;
-    background: #fff;
+    color: #fff;
+    background: #FFCB47;
 
 }
 .social ul li i {
-    margin-left: 10px;
-    color: #000;
-    background: #b9b9b9;
+    margin-left: 18px;
+    color:  #FFCB47;
     padding: 10px;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%;
-    width: 40px;
-    height: 40px;
-    font-size: 20px;
+    width: 50px;
+    height: 50px;
+    font-size: 28px;
     -webkit-transform: rotate(0deg);
     -moz-transform: rotate(0deg);
     -ms-transform: rotate(0deg);
@@ -237,23 +243,23 @@ section::after {
 
 /* Blog */
 .card {
-    background-color: white;
     padding: 10px 10px 10px 10px;
     margin-top: 10px;
     text-align: left;
-    width: 90%;
+    width: 98%;
+    font-size: 1.25em;
 }
 
 .footer{
     width: 100%;
     text-align: center;
-    padding: 30px 0 0 0;
-    margin-top: 30px; /* space between content and footer */
+    padding: 15px 0 15px 0;
+    margin-top: 30px;/* space between content and footer */
 }
 
 /* Vertical Lines */
 .vlR {
-    border-right: 2px solid #6e6e6e;
+    border-right: 2px solid #FFCB47;
     height: 10%;
     left: 50%;
     margin-left: -3px;
@@ -261,7 +267,7 @@ section::after {
 }
 
 .vlL {
-    border-left: 2px solid #6e6e6e;
+    border-left: 2px solid #FFCB47;
     height: 10%;
     left: 50%;
     margin-left: -3px;
@@ -274,8 +280,8 @@ section::after {
     margin-left: auto;
     margin-right: auto;
     border-radius: 30%;
-    height: 250px;
-    width: 250px;
+    height: 350px;
+    width: 350px;
     background: #000000;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to bottom, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to bottom, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
@@ -286,6 +292,7 @@ section::after {
     clear: both;
     display: table;
 }
+
 
 /* For mobile phones: */
 [class*="col-"] {
@@ -343,6 +350,15 @@ section::after {
 
     header {
         height: 400px;
+        background:url("../img/Gears.jpg") no-repeat center;
+        background-blend-mode: multiply;
+        background-size: cover;
+        -moz-box-shadow:  -0px 5px 12px 2px lightgray;
+        -webkit-box-shadow:  -0px 5px 12px 2px lightgray;
+        box-shadow: -0px 5px 12px 2px lightgray;
+        border-radius: 4px;
+        margin: 0;
+        padding: 0;
     }
 
     nav {
@@ -363,14 +379,14 @@ section::after {
     }
 
     h1.htfB {
-        font-size: 6em;
+        font-size: 8em;
         padding-left: 5px;
         text-align: center;
-        margin-top: -32px;
+        margin: 4px;
     }
 
     h1.htfG {
-        font-size: 4.5em;
+        font-size: 6.5em;
         text-align: center;
 
     }
@@ -385,7 +401,7 @@ section::after {
         float: left;
         height: 750px;
         padding-top: 50px;
-        border-right: 1px darkgrey solid;
+        border-right: 2px grey solid;
 
     }
 
@@ -419,7 +435,7 @@ section::after {
     }
 
     .projCenter {
-        border-left: darkgrey 1px dashed;
+        border-left: grey 2px solid;
         border-bottom: none;
         vertical-align: top;
         float: left;
@@ -428,7 +444,7 @@ section::after {
 
     .projRight {
         border-bottom: none;
-        border-left: darkgrey 1px dashed;
+        border-left: grey 2px solid;
         float: right;
         width: 99%;
         vertical-align: top;
@@ -468,9 +484,10 @@ section::after {
         display: block;
         margin-left: 20px;
         margin-right: auto;
-        border-radius: 30%;
-        height: 325px;
-        width: 325px;
+        border-radius: 20%;
+        height: 525px;
+        width: 525px;
+        border: #2196F3 solid 6px;
     }
 
     @media only screen and (min-width: 1040px) {

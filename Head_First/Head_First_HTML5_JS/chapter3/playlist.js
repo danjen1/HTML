@@ -12,6 +12,7 @@ function init() {
     delButton.onclick = delHandleButtonClick;
     clrButton.onclick = clrHandleButtonClick;
 
+
 }
 
 
