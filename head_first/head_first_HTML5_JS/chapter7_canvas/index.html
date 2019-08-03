@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Canvas</title>
+    <link rel="stylesheet" href="tweetshirt.css">
+    <script src="tweetshirt.js"></script>
+</head>
+<body>
+<h1>TweetShirt</h1>
+<canvas id="tshirtCanvas" width="600" height="200">
+    <p>Upgrade your browser to see this content</p>
+</canvas>
+<div>
+    <form>
+        <p>
+            <label for="background">Select Background:</label>
+            <select id="background">
+                <option value="blank"></option>
+                <option value="white">white</option>
+                <option value="black">black</option>
+                <option value="blue">blue</option>
+                <option value="red">red</option>
+            </select>
+        </p>
+        <p>
+            <label for="shape">Circles or Squares?:</label>
+            <select id="shape">
+                <option value="blank"></option>
+                <option value="none">none</option>
+                <option value="circles">circles</option>
+                <option value="squares">squares</option>
+            </select>
+        </p>
+        <p>
+            <label for="fgColor">Select a Text Color:</label>
+            <select id="fgColor">
+                <option value="blank"></option>
+                <option value="white">white</option>
+                <option value="black">black</option>
+                <option value="blue">blue</option>
+                <option value="red">red</option>
+            </select>
+
+        </p>
+        <p>
+            <label for="tweets">Pick a Tweet:</label>
+            <select id="tweets">
+                <option value="blank"></option>
+
+            </select>
+        </p>
+
+        <input type="button" id="preview" value="Preview">
+        <input type="button" id="buy" value="Buy">
+    </form>
+    <script src="http://tweetshirt.wickedlysmart.com/?callback=updateTweets"></script>
+</div>
+</body>
+</html>

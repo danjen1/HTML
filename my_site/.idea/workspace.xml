@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c229f02c-bcbc-4db9-bdbd-53044fee8f1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter7 Canvas/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter7 Canvas/tweetshirt.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter7 Canvas/tweetshirt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/areyoupopularposter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/destinationearthposter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/effectbuttons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/highlight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/looppressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/mutepressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/noirpressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/normalpressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/pausepressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/playpausemute.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/playpressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/prerollposter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/scifipressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/technicaldifficulties.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/tv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/video1pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/video1video2buttons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/video2pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/videoformfactor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/westernpressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/areyoupopular.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/areyoupopular.ogv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/areyoupopular.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/demovideo1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/demovideo1.ogv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/demovideo1.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/demovideo2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/demovideo2.ogv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/demovideo2.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/destinationearth.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/destinationearth.ogv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/destinationearth.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/preroll.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/preroll.ogv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/preroll.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/videobooth.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/videobooth.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/videobooth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/webvilletv.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/webvilletv.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/webvilletv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio/img/blog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter7/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter7/smiley.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter7 Canvas/smiley.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter7/triangle.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter7 Canvas/triangle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter7/tweetshirt.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter7/tweetshirt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter7/twitterBird.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter7 Canvas/twitterBird.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter8/videobooth.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter8/videobooth.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter8/webvilletv.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter8/webvilletv.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter8/webvilletv.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter8/webvilletv.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter8/webvilletv_playlist.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter8/webvilletv_playlist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter5 Geolocation/myLoc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter5 Geolocation/myLoc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter6 Comms APIs/mightygumball.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter6 Comms APIs/mightygumball.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1OtOUjo64ToALf8nZ6HBQxiRiN0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c229f02c-bcbc-4db9-bdbd-53044fee8f1b" name="Default Changelist" comment="" />
+      <created>1564793443240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564793443240</updated>
+      <workItem from="1564793444418" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

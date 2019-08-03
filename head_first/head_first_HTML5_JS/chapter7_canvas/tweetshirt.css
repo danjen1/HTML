@@ -1,0 +1,15 @@
+
+
+#tshirtCanvas {
+    margin: 5px 15px;
+    border: 1px solid blue;
+
+}
+
+#preview,
+    #buy {
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 40px;
+}

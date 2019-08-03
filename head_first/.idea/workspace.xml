@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ce001c5-f9a7-43c8-afd1-2d5c18248a09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter7 Canvas/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter7 Canvas/tweetshirt.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter7 Canvas/tweetshirt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/images/areyoupopularposter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/images/destinationearthposter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/images/effectbuttons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/images/highlight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/images/looppressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/images/mutepressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/images/noirpressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/images/normalpressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/images/pausepressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/images/playpausemute.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/images/playpressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/images/prerollposter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/images/scifipressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/images/technicaldifficulties.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/images/tv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/images/video1pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/images/video1video2buttons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/images/video2pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/images/videoformfactor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/images/westernpressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/video/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/video/areyoupopular.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/video/areyoupopular.ogv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/video/areyoupopular.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/video/demovideo1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/video/demovideo1.ogv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/video/demovideo1.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/video/demovideo2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/video/demovideo2.ogv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/video/demovideo2.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/video/destinationearth.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/video/destinationearth.ogv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/video/destinationearth.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/video/preroll.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/video/preroll.ogv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/video/preroll.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/videobooth.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/videobooth.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/videobooth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/webvilletv.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/webvilletv.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video/webvilletv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5 Heads First/chapter7/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5 Heads First/chapter7/smiley.html" beforeDir="false" afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter7 Canvas/smiley.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5 Heads First/chapter7/triangle.html" beforeDir="false" afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter7 Canvas/triangle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5 Heads First/chapter7/tweetshirt.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5 Heads First/chapter7/tweetshirt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5 Heads First/chapter7/twitterBird.png" beforeDir="false" afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter7 Canvas/twitterBird.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5 Heads First/chapter8/videobooth.css" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5 Heads First/chapter8/videobooth.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5 Heads First/chapter8/webvilletv.css" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5 Heads First/chapter8/webvilletv.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5 Heads First/chapter8/webvilletv.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5 Heads First/chapter8/webvilletv.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5 Heads First/chapter8/webvilletv_playlist.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5 Heads First/chapter8/webvilletv_playlist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter5 Geolocation/myLoc.html" beforeDir="false" afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter5 Geolocation/myLoc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter6 Comms APIs/mightygumball.js" beforeDir="false" afterPath="$PROJECT_DIR$/Head_First_HTML5_JS/chapter6 Comms APIs/mightygumball.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Ogu6q5Td04bQFFoW4wvrLTMgPC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Portfolio" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HTML5 Heads First/chapter8" />
+      <recent name="$PROJECT_DIR$/Head_First_HTML5_JS/chapter7 Canvas" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Head_First_HTML5_JS/chapter8 Video" />
+      <recent name="$PROJECT_DIR$/Head_First_HTML5_JS/chapter7 Canvas" />
+      <recent name="$PROJECT_DIR$/HTML5 Heads First/chapter6/JSONP" />
+      <recent name="$PROJECT_DIR$/Head_First_HTML5_JS/chapter6 Comms APIs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.videobooth.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Head_First/HTML5 Heads First/chapter7/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="myLoc.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Head_First/HTML5 Heads First/chapter5/watchme/myLoc.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="myLoc.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Head_First/HTML5 Heads First/chapter5/distance/myLoc.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="myLoc.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Head_First/HTML5 Heads First/chapter5/final/myLoc.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="videobooth.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Head_First/HTML5 Heads First/chapter8/videobooth.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.videobooth.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.myLoc.html (3)" />
+        <item itemvalue="JavaScript Debug.myLoc.html (2)" />
+        <item itemvalue="JavaScript Debug.myLoc.html (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ce001c5-f9a7-43c8-afd1-2d5c18248a09" name="Default Changelist" comment="" />
+      <created>1543548096504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543548096504</updated>
+      <workItem from="1543548097745" duration="143000" />
+      <workItem from="1564411390480" duration="1256000" />
+      <workItem from="1564529942148" duration="16356000" />
+      <workItem from="1564615437453" duration="17942000" />
+      <workItem from="1564686042570" duration="9367000" />
+      <workItem from="1564696855322" duration="31369000" />
+      <workItem from="1564777757355" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

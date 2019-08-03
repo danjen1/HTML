@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="688eea02-c69f-42bf-8932-0b333ebf576b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter7 Canvas/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter7 Canvas/tweetshirt.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter7 Canvas/tweetshirt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/areyoupopularposter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/destinationearthposter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/effectbuttons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/highlight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/looppressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/mutepressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/noirpressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/normalpressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/pausepressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/playpausemute.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/playpressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/prerollposter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/scifipressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/technicaldifficulties.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/tv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/video1pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/video1video2buttons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/video2pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/videoformfactor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/westernpressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/areyoupopular.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/areyoupopular.ogv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/areyoupopular.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/demovideo1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/demovideo1.ogv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/demovideo1.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/demovideo2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/demovideo2.ogv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/demovideo2.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/destinationearth.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/destinationearth.ogv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/destinationearth.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/preroll.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/preroll.ogv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/preroll.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/videobooth.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/videobooth.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/videobooth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/webvilletv.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/webvilletv.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/webvilletv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter7/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter7/smiley.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter7 Canvas/smiley.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter7/triangle.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter7 Canvas/triangle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter7/tweetshirt.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter7/tweetshirt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter7/twitterBird.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter7 Canvas/twitterBird.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter8/videobooth.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter8/videobooth.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter8/webvilletv.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter8/webvilletv.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter8/webvilletv.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter8/webvilletv.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter8/webvilletv_playlist.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter8/webvilletv_playlist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter5 Geolocation/myLoc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter5 Geolocation/myLoc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter6 Comms APIs/mightygumball.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter6 Comms APIs/mightygumball.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1OgtxbsJMaCJZpAdhDpvGUb8IfW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="vl&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Portfolio/index.html">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="688eea02-c69f-42bf-8932-0b333ebf576b" name="Default Changelist" comment="" />
+      <created>1543029633343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543029633343</updated>
+      <workItem from="1543029636622" duration="1065000" />
+      <workItem from="1543031220951" duration="2287000" />
+      <workItem from="1543034382275" duration="23260000" />
+      <workItem from="1543095927167" duration="14469000" />
+      <workItem from="1543189159526" duration="2330000" />
+      <workItem from="1543194827282" duration="14950000" />
+      <workItem from="1543381091120" duration="10297000" />
+      <workItem from="1543417466151" duration="45079000" />
+      <workItem from="1543632343011" duration="16327000" />
+      <workItem from="1543648781967" duration="2308000" />
+      <workItem from="1543724008221" duration="72411000" />
+      <workItem from="1543873509126" duration="956000" />
+      <workItem from="1543874535122" duration="462000" />
+      <workItem from="1543875257009" duration="8643000" />
+      <workItem from="1543884817455" duration="10165000" />
+      <workItem from="1543896976179" duration="2004000" />
+      <workItem from="1543899879091" duration="7333000" />
+      <workItem from="1544155493448" duration="187000" />
+      <workItem from="1564276162352" duration="7955000" />
+      <workItem from="1564340819848" duration="9000" />
+      <workItem from="1564411321144" duration="68000" />
+      <workItem from="1564777770468" duration="8529000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
