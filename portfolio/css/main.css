@@ -95,7 +95,6 @@ nav {
     width: 100%;
     padding: 30px 0 0 0;
     background-color: rgb(15, 14, 23);
-
     margin-bottom: 0;
 
 }
@@ -141,79 +140,19 @@ section::after {
 
 .name{
     margin-top: -80px;
-
     text-decoration: none;
 }
 
 
 
-/* Social Media Links */
-.social {
-    font-size: 24px;
-}
 
-.social ul {
-    display: inline-block;
-    padding: 2px;
-
-}
-
-.social ul li {
-    display: block;
-    margin: 2px 0 4px -310px;
-    background: -webkit-linear-gradient(to bottom, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to bottom, #434343, #000000);
-    width: 310px;
-    text-align: right;
-    padding: 8px;
-    -webkit-border-radius: 0 30px 30px 0;
-    -moz-border-radius: 0 30px 30px 0;
-    border-radius: 0 30px 30px 0;
-    -webkit-transition: all 1s;
-    -moz-transition: all 1s;
-    -ms-transition: all 1s;
-    -o-transition: all 1s;
-    transition: all 1s;
-}
-
-.social ul a {
-    color: #FFCB47;
-
-}
-.social ul li:hover {
-    background: rgba(255, 255, 255, 0.4);
-}
-.social ul li:hover a {
-    color: #FFCB47;
-}
-.social ul li:hover i {
-    color: #fff;
-    background: #FFCB47;
-
-}
-.social ul li i {
-    margin-left: 18px;
-    color:  #FFCB47;
-    padding: 10px;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    border-radius: 50%;
-    width: 50px;
-    height: 50px;
-    font-size: 38px;
-    -webkit-transform: rotate(0deg);
-    -moz-transform: rotate(0deg);
-    -ms-transform: rotate(0deg);
-    -o-transform: rotate(0deg);
-    transform: rotate(0deg);
-}
 
 /* skills */
-.html {width: 70%; background-color: green;}
-.css {width: 70%; background-color: orange;}
-.js {width: 25%; background-color: #f44336;}
-.java {width: 45%; background-color: blue;}
-.sql {width: 25%; background-color: mediumpurple;}
+.html {margin-top: 5px; width: 80%; background-color: green;}
+.css {margin-top: 5px; width: 80%; background-color: orange;}
+.js {margin-top: 5px; width: 35%; background-color: #f44336;}
+.java {margin-top: 5px; width: 65%; background-color: blue;}
+.sql {margin-top: 5px; width: 35%; background-color: mediumpurple;}
 
 .skills{
 }
@@ -243,6 +182,7 @@ section::after {
     -webkit-box-shadow:  -0px 5px 12px 2px lightgray;
     box-shadow: -0px 5px 12px 2px lightgray;
 }
+
 
 .certsContainer {
     text-align: center;
@@ -335,8 +275,10 @@ footer{
 [class*="col-"] {
     width: 100%;
 }
+
+/* For tablets: */
 @media only screen and (min-width: 600px) {
-    /* For tablets: */
+
     .col-s-1 {
         width: 8.33%;
     }
@@ -463,7 +405,6 @@ footer{
         display: inline-block;
         margin-left: auto;
         margin-right: auto;
-
     }
 
 
@@ -497,19 +438,7 @@ footer{
 
 
 
-    .social ul li:hover {
-        -webkit-transform: translate(125px, 0);
-        -moz-transform: translate(125px, 0);
-        -ms-transform: translate(125px, 0);
-        -o-transform: translate(125px, 0);
-        transform: translate(125px, 0);
-        background: rgba(0, 0, 0, 0.4);
-    }
 
-    .social ul {
-        margin-top: 50px;
-
-    }
 
     .card {
         float: left;

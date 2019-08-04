@@ -2,65 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="688eea02-c69f-42bf-8932-0b333ebf576b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter7 Canvas/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter7 Canvas/tweetshirt.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter7 Canvas/tweetshirt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/areyoupopularposter.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/destinationearthposter.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/effectbuttons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/highlight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/looppressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/mutepressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/noirpressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/normalpressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/pausepressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/playpausemute.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/playpressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/prerollposter.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/scifipressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/technicaldifficulties.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/tv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/video1pressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/video1video2buttons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/video2pressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/videoformfactor.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/images/westernpressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/areyoupopular.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/areyoupopular.ogv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/areyoupopular.webm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/demovideo1.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/demovideo1.ogv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/demovideo1.webm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/demovideo2.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/demovideo2.ogv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/demovideo2.webm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/destinationearth.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/destinationearth.ogv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/destinationearth.webm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/preroll.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/preroll.ogv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/video/preroll.webm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/videobooth.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/videobooth.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/videobooth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/webvilletv.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/webvilletv.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter8 Video/webvilletv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Head_First/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter7/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter7/smiley.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter7 Canvas/smiley.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter7/triangle.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter7 Canvas/triangle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter7/tweetshirt.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter7/tweetshirt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter7/twitterBird.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter7 Canvas/twitterBird.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter8/videobooth.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter8/videobooth.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter8/webvilletv.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter8/webvilletv.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter8/webvilletv.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter8/webvilletv.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter8/webvilletv_playlist.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/HTML5 Heads First/chapter8/webvilletv_playlist.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter5 Geolocation/myLoc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter5 Geolocation/myLoc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter6 Comms APIs/mightygumball.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Head_First/Head_First_HTML5_JS/chapter6 Comms APIs/mightygumball.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/img/AdvHTML5&amp;CSS3_sp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/img/Aplus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/img/Gears.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/img/ProjPlus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/img/UserInterface_sp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/img/blog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/img/code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/img/down_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/img/file.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/img/hamburger_menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/img/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/img/mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/img/me_solo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/img/site_dev_assoc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/img/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/js/vendor/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/js/vendor/modernizr-3.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_site/.idea/my_site.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../my_site/.idea/my_site.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_site/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../my_site/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -187,6 +161,9 @@
       <workItem from="1564340819848" duration="9000" />
       <workItem from="1564411321144" duration="68000" />
       <workItem from="1564777770468" duration="8529000" />
+      <workItem from="1564796096270" duration="10752000" />
+      <workItem from="1564870209730" duration="610000" />
+      <workItem from="1564942807003" duration="6060000" />
     </task>
     <servers />
   </component>
