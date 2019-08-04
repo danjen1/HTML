@@ -1,0 +1,72 @@
+nav
+{
+    padding-top: 450px;
+    font-size: 1.65em;
+    display:block;
+    text-align: center;
+
+}
+
+/* Pseudo-classes ------------------ */
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #7796ff;
+}
+
+a:hover {
+    color: #ff5b32;
+}
+
+a:active {
+    color: #8b0310;
+}
+
+
+.title {
+    color: white;
+    font-size: 1.65rem; /* 26px/16px */
+    letter-spacing: .065em;
+    padding-top: 5px;
+    font-weight: 200;
+    border-bottom: 2px solid;
+    padding-bottom: 10px;
+
+}
+.main-header {
+    padding-top: 100px;
+    height: 550px;
+    background: url("../img/family.JPG") no-repeat center, linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+    background-blend-mode: multiply,multiply;
+    background-size: cover;
+    border-radius: 20px;
+
+}
+
+.navlinks {
+    border: 2px solid #a1a1a1;
+    padding: 1px 4px;
+    font-family: 'Cormorant Unicase', serif;
+    border-radius: 0px;
+    text-decoration: none;
+    box-shadow: 1px 1px 1px #888888;
+    background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+.certs {
+    width: 30%;
+    float: right;
+    align-content: center;
+}
+
+.secondary-content {
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: auto;
+    max-width: 100%;
+}
