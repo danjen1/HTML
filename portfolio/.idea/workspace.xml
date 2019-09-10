@@ -2,42 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="688eea02-c69f-42bf-8932-0b333ebf576b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/img/AdvHTML5&amp;CSS3_sp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/img/Aplus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/img/Gears.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/img/ProjPlus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/img/UserInterface_sp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/img/blog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/img/code.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/img/down_arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/img/file.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/img/hamburger_menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/img/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/img/mail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/img/me_solo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/img/site_dev_assoc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/img/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/js/vendor/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/js/vendor/modernizr-3.7.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my_site/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_site/.idea/my_site.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../my_site/.idea/my_site.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/img/advisor_db_java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/img/codingbat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/img/gitlab_my_site.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/img/mooc_fi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_site/img/website_img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../my_site/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../my_site/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_site/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../my_site/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../my_site/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -163,7 +136,7 @@
       <workItem from="1564777770468" duration="8529000" />
       <workItem from="1564796096270" duration="10752000" />
       <workItem from="1564870209730" duration="610000" />
-      <workItem from="1564942807003" duration="6060000" />
+      <workItem from="1564942807003" duration="8527000" />
     </task>
     <servers />
   </component>

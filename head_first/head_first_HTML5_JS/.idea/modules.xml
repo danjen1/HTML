@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../HTML5 Heads First/.idea/HTML5 Heads First.iml" filepath="$PROJECT_DIR$/../HTML5 Heads First/.idea/HTML5 Heads First.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/head_first_HTML5_JS.iml" filepath="$PROJECT_DIR$/.idea/head_first_HTML5_JS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../my_site/.idea/my_site.iml" filepath="$PROJECT_DIR$/../../my_site/.idea/my_site.iml" />
+    </modules>
+  </component>
+</project>
