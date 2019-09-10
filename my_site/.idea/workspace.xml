@@ -2,42 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c229f02c-bcbc-4db9-bdbd-53044fee8f1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/AdvHTML5&amp;CSS3_sp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Aplus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Gears.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ProjPlus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/UserInterface_sp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/code.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/down_arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/file.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hamburger_menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/me_solo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/site_dev_assoc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/vendor/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/vendor/modernizr-3.7.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/my_site.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_site.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/advisor_db_java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/codingbat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gitlab_my_site.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mooc_fi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/website_img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../portfolio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../portfolio/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../portfolio/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../portfolio/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../portfolio/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +42,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../portfolio" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../head_first/HTML5 Heads First" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -115,7 +89,8 @@
       <option name="presentableId" value="Default" />
       <updated>1564793443240</updated>
       <workItem from="1564793444418" duration="9000" />
-      <workItem from="1564794015929" duration="66049000" />
+      <workItem from="1564794015929" duration="79854000" />
+      <workItem from="1565712323464" duration="43000" />
     </task>
     <servers />
   </component>

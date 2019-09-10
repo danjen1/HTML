@@ -1,15 +1,10 @@
 // Get the modal
 var modal = document.getElementById("contact");
-
-
 window.onload = contactFormButtons;
 
 function contactFormButtons() {
     var contactLink = document.getElementById("contactForm");
     contactLink.onclick = handleControl;
-
-    var envelope = document.getElementById("envelope");
-    envelope.onclick = handleControl;
 
     var cancel = document.getElementById("cancelbtn");
     cancel.onclick = handleControl;
@@ -26,19 +21,25 @@ window.onclick = function(event) {
         form.reset();
 
     }
-};
-
+}
 
 function handleControl(e){
     var id = e.target.getAttribute("id");
-    if(id == "contactForm" || id == "envelope"){
+    if(id == "contactForm"){
         document.getElementById("contact").style.display="block";
     }
     if(id == "cancelbtn"){
         document.getElementById("contact").style.display="none";
     }
     if(id == "modalClose"){
-        document.getElementById('contact').style.display="none";
+        document.getElementById("contact").style.display="none";
     }
 }
 
+$( ".certImage" ).click(function() {
+    if (  $( this ).css( "transform" ) == 'none' ){
+        $(this).css("transform","scale(2)");
+    } else {
+        $(this).css("transform","" );
+    }
+});

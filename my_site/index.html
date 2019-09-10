@@ -13,11 +13,11 @@
 </head>
 <body>
 <nav>
-    <a href="#back-to-top"><img class="nav-image" src="img/home.png" alt="home-icon">Home</a>
-    <a href="#about"><img class="nav-image" src="img/user.png" alt="about-icon">About</a>
-    <a href="#projects"><img class="nav-image" src="img/code.png" alt="code-icon">Code</a>
-    <a href="#blog"><img class="nav-image" src="img/blog.png" alt="blog-icon">Blog</a>
-    <a id="contactForm"><img class="nav-image" id="envelope" src="img/mail.png" alt="contact link">Contact</a>
+    <a href="#back-to-top" class="borderRight" >Home</a>
+    <a href="#about"class="borderRight">About</a>
+    <a href="#projects"class="borderRight">Code</a>
+    <a href="#blog"class="borderRight">Blog</a>
+    <a id="contactForm">Email</a>
 </nav>
 <a id="back-to-top"></a>
 <header>
@@ -121,13 +121,14 @@
     <section class="certs col-s-6">
         <h1 class="titles">Certs</h1>
         <p>
-            Java is the focus of my degree and my proficiency will improve as I complete the more advanced coursework.  I'm not sure
-            exactly what I like doing best; website work, or java applications, so until I figure it out I'll just learn it all!
+            Java is the focus of my degree and my proficiency will improve as I complete the more advanced coursework.
+            I'm not sure exactly what I like doing best; website work, or java applications, so until I figure it out
+            I'll just learn it all!<br>
         </p>
-        <article class="certsContainer borderLeft borderRight">
-            <img class="certImage certImageTop" src="img/ProjPlus.jpg">
-            <img class="certImage certImage2nd" src="img/Aplus.jpg"><br>
-            <img class="certImage" src="img/site_dev_assoc.jpg"><br>
+        <article class="certsContainer">
+            <img class="certImage " src="img/ProjPlus.jpg">
+            <img class="certImage " src="img/Aplus.jpg">
+            <img class="certImage" src="img/site_dev_assoc.jpg">
             <img class="certImage" src="img/AdvHTML5&CSS3_sp.jpg">
             <img class="certImage" src="img/UserInterface_sp.jpg">
         </article>
@@ -138,27 +139,76 @@
         <a id="projects"></a>
         <h1 class="titles">Projects</h1>
         <article class="col-r-4 projLeft borderLeft borderRight">
-       <a href="https://djenk41.000webhostapp.com/my_site/"><span style="color:red"><h2 class="titles">My_Site</h2>
-           <i class="fa fa-code fa-10x"></i></span></a>
+            <a href="https://gitlab.com/dan_jen1/HTML/tree/master/my_site"><h2 class="titles" style="color:seagreen">My_Site</h2>
+                <img class="projects" src="img/gitlab_my_site.png" alt="website image">
+            </a>
             <p class="projects">
-                Code for this website including CSS, JavaScript etc.
+                Code for this website including CSS, JavaScript, HTML and soon SQL.
             </p>
         </article>
         <hr class="projects">
         <article class="col-r-4  projCenter borderLeft borderRight">
-        <span style="color:#FFCB47"><h2 class="titles">Project 2</h2><br>
-        <i class="fa fa-terminal fa-10x"></i></span>
+            <a href="https://gitlab.com/dan_jen1/Java/tree/master/asdvisor_db"><h2 class="titles" style="color:seagreen">Employee_DB</h2>
+                <img class="projects" src="img/advisor_db_java.png" alt="website image">
+            </a>
+            <p class="projects">
+                Working on a full featured Java customer relations management application for employees with a specific
+                focus on tracking goals, coaching, attendance and other manager level focused activities.
+            </p>
         </article>
         <hr class="projects">
+
         <article class="col-r-4 projRight borderLeft borderRight">
-        <span style="color:blue"><h2 class="titles">Project 3</h2><br>
-        <i class="fab fa-free-code-camp fa-10x"></i></span>
+            <a href="https://gitlab.com/dan_jen1/Java/tree/master/mooc-2013-OOProgrammingWithJava-PART2">
+                <h2 class="titles" style="color:seagreen">Mooc_Fi 1 & 2</h2>
+                <img class="projects" src="img/mooc_fi.png" alt="website image">
+            </a>
+            <p class="projects">
+                Looking for every opportunity to hone my coding skills in addition to WGU course work I've completed MOOC.fi
+                parts 1 & 2.  Along with Mooc.fi GitLab has code from Hacker Rank, Coding Bat and the multitude of books like the
+                "Head First" and "Effective Java".
+            </p>
         </article>
         <hr class="projects">
     </section>
 </div>
+<div class="clearfix">
+    <section>
+        <h1 class="titles">Blog</h1>
+        <a id="blog"></a>
+        <article class="borderLeft borderRight">
+            <h1 class="blog">My First Website</h1>
+            <h4 class="blog">Blood, sweat and swears... posted: 8/3/2019</h4>
+            <img class="blogThumb" src="img/website_img.png">
+            <p>
+                I started building this site a few months ago and as a novice developer wanted to share my experience
+                through the process, styling, positioning, FLOATING elements and a lot of swearing went into what you see here
+                and every time I finish a portion, I learn something new and can't wait to re-do everything again....
+            </p>
+            <br>
+            <p><a href="Blog.html">Read More</a></p>
+        </article>
+        <hr class="blog">
+        <article class=" borderLeft borderRight">
+            <h1 class="blog">Learning to Code - Practice your skills</h1>
+            <h4 class="blog">Websites to practice coding skills... posted: 8/12/2019</h4>
+            <img class="blogThumb" src="img/codingbat.png">
+            <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+            </p>
+
+            <br>
+            <p><a href="Blog.html">Read More</a></p>
+            <hr class="blog">
+        </article>
 
 
+
+
+
+
+    </section>
+</div>
 
 
 
