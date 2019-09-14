@@ -58,6 +58,28 @@
   <audio data-key="76" src="sounds/tink.wav"></audio>
 
 <script>
+function playSound(e){ //window even listener for keydown runs this method
+  const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);//assign audio to the pressed key's code
+  const key = document.querySelector(`div[data-key="${e.keyCode}"]`); //assign key to the pressed key's code (transform the div)
+  if(!audio) return; //stop the function for keys pressed not listed
+  audio.currentTime = 0; //rewinds to the start of the audio file
+  audio.play();//play associated audio file
+  key.classList.add('playing'); //adds CSS selector
+}
+
+function removeTransition(e){//each key gets an event listener for ending transform
+  if(e.propertyName !== 'transform') return;//if the passed key doesn't have a transform property skip it
+  this.classList.remove('playing'); //remove the playing selector
+}
+
+
+const keys = document.querySelectorAll('.key');//assigns all .key CSS selectors to key const
+keys.forEach(key => key.addEventListener('transitionend', removeTransition)); //adds eventListeners to each key in the node list and calls removeTransition
+
+window.addEventListener('keydown', playSound);
+
+
+
 
 </script>
 
