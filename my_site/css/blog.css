@@ -6,11 +6,14 @@
 * {
     box-sizing: border-box;
 }
-.content {
+.outerwrapper {
     max-width: 1024px;
     margin: 10px auto 10px auto;
-    border: 1px solid #441B10;
     padding: 10px;
+}
+
+.content{
+
 }
 
 a{
@@ -60,14 +63,15 @@ p{
     text-justify: inter-word;
 }
 
-p.titleCaption {
-    font-family: 'Cantarell', serif;
+h4.titleCaption {
+    font-family: 'Cantarell', sans-serif;
     font-size: 1em;
-    margin-left: 28px;
-    text-align: left;
-    color: #bcbdb9;
-
+    color: dodgerblue;
+    text-decoration:  overline;
+    border: 2px solid blue;
+    text-align: center;
 }
+
 /*
  * A better looking default horizontal rule
  */
@@ -124,21 +128,17 @@ textarea {
 h1.pageTitle {
     font-family: 'Rubik', serif;
     font-size: 3.5em;
-    color: #bcbdb9;
-    width: 98%;
-    margin: 28px 5px -10px 68px;
-    text-align: left;
-    overflow: visible;
-    vertical-align: center;
+    color: #FFF;
+    text-align: center;
     line-height: 1.1em;
+    border: 1px solid blue;
+
 }
 
 nav {
     width: 100%;
     height: 40px;
-    margin-left: 28px;
     padding-top: 54px;
-    vertical-align: middle;
     text-align: center;
 }
 
@@ -153,7 +153,6 @@ nav a {
     font-weight: lighter;
     font-size: 1.4em;
     border-bottom: 2px solid #F8F5F2;
-
 }
 nav a:hover {
     color: #F8F5F2;
@@ -171,7 +170,7 @@ nav.footer {
 }
 
 img.blogThumb{
-    display: inline;
+    float: left;
     height: 150px;
     width: 150px;
     padding: 4px;
@@ -184,7 +183,7 @@ img.blogThumb{
 }
 
 h1.blog{
-    margin: -145px 0 5px 166px;
+    margin: 15px 0 5px 166px;
     line-height: 1.25em;
     text-align: left;
     color: #D5D6D2;
@@ -193,7 +192,7 @@ h1.blog{
 
 
 h3.blog{
-    margin: 24px 0 5px 226px;
+    margin: 24px 0 5px 176px;
     color: #FFB745;
     text-align: left;
     text-shadow: #1C1C1C;
@@ -208,6 +207,8 @@ p.blog {
 }
 p.centered{
     text-align: right;
+    margin-bottom: 2px;
+    margin-top: 1px;
 }
 
 .active {
@@ -218,8 +219,9 @@ p.centered{
 
 .header {
     height: 68px;
-    margin: 0 5px 5px 0;
+    margin: 0 5px 35px 0;
     padding-bottom: 40px;
+
 }
 
 .card {
@@ -228,29 +230,46 @@ p.centered{
     padding: 1.1rem;
     border-radius: 16px;
     background: #17141d;
-    -webkit-box-shadow: -1rem 0 3rem #000;
-    box-shadow: -1rem 0 3rem #000;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    -webkit-transition: .2s;
-    transition: .2s;
     width: 92%;
     margin: 20px auto 5px auto;
 }
 
-.featuredPost {
-    min-width: 300px;
-    min-height: 350px;
+.topics {
+    text-align: center;
+    display: inline-block;
+    height: 184px;
+    margin-top: 90px;
     width: 100%;
-    padding: 0.75rem;
-    border-radius: 16px;
-    margin-top: 155px;
+    font-family: Cantarell, sans-serif;
+
+
 }
+
+.topicCard {
+    height: 184px;
+    border-radius: 16px;
+    width: 18%;
+    background: #3A5199;
+    display: inline-block;
+    padding: 15px;
+    margin: 4px;
+}
+
+h1.topic{
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.bloodOrange {
+    background-color: #E7552C;
+}
+.blueBlack {
+    background-color: #E80000 ;
+}
+.yellow {
+    background-color: goldenrod;
+}
+
 
 .borderRight {
     border-right: 2px solid #D5D6D2;
@@ -264,9 +283,9 @@ p.centered{
     border-radius: 6%;
     float: right;
     display: inline;
-    height: 184px;
-    width: 184px;
-    margin: 30px 24px 20px 12px;
+    height: 244px;
+    width: 244px;
+    margin-right: 48px;
     background: #000000;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to bottom, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to bottom, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
@@ -274,6 +293,8 @@ p.centered{
     -webkit-box-shadow:  0 0 10px #D5D6D2;
     box-shadow:          0 0 10px #D5D6D2;
 }
+
+
 
 hr {
     display: block;
@@ -290,10 +311,10 @@ hr {
 
 .social {
     width: 100%;
-    padding: 48px;
+    padding: 15px 48px 0 48px;
     vertical-align: middle;
     text-align: center;
-    margin-left: 12px;
+    margin-left: 8px;
 }
 
 /* Fab Icons*/
@@ -306,14 +327,28 @@ hr {
     margin-left: 5px;
 }
 
+.fasScroll {
+    font-size: 14px;
+    width: 194px;
+}
+.fas{
+    font-size: 84px;
+    margin-top: 2px;
+}
+
 .fab:hover {
     opacity: 0.7;
 }
 
+.topicCard:hover{
+    opacity: 0.7;
+
+}
+
+
 nav.footer{
     text-align: center;
     padding: 72px;
-    margin-right: 174px;
 }
 
 
@@ -361,10 +396,30 @@ nav.footer{
 
 
 
+
 /*Media Queries*/
 /* Extra small devices iPhone5 / SE  */
 @media only screen and (min-width: 320px) {
 
+    nav {
+        height: 40px;
+        padding-top: 54px;
+        text-align: center;
+    }
+
+    nav a {
+        text-decoration: none;
+        color: #5CC5EF;
+        display: inline-block;
+        margin-top: 5px;
+        font-family:  Cantarell, sans-serif;
+        font-weight: lighter;
+        border-bottom: 2px solid #F8F5F2;
+    }
+    nav a:hover {
+        color: #F8F5F2;
+        text-decoration: underline #3A5199;
+    }
 }
 
 /* Extra small devices Galaxy S5/ iPhone X - 8 Plus (414)*/
@@ -376,8 +431,6 @@ nav.footer{
 @media only screen and (min-width: 414px) {
 
 }
-
-
 
 
 /* Extra small devices (phones, 600px and down) */

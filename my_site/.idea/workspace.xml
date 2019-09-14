@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c229f02c-bcbc-4db9-bdbd-53044fee8f1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mobile_site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/blog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/mobile_site.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_site.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/blog.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +26,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -97,7 +100,9 @@
       <workItem from="1564794015929" duration="79854000" />
       <workItem from="1565712323464" duration="43000" />
       <workItem from="1568078400587" duration="683000" />
-      <workItem from="1568091690461" duration="46673000" />
+      <workItem from="1568091690461" duration="49006000" />
+      <workItem from="1568216742277" duration="136000" />
+      <workItem from="1568216917592" duration="25946000" />
     </task>
     <servers />
   </component>

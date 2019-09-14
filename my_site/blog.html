@@ -3,12 +3,13 @@
 <head>
     <meta charset="utf-8">
     <title>Daniel Jenkins</title>
-    <meta name="description" content="personal portfolio">
+    <meta name="description" content="personal blog">
     <meta name="keywords" content="about, JAVA, JS, HTML, code, Linux, blog, tech, Ubuntu, Debian, ChromeOS">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" href="css/blog.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato|Rubik&display=swap&effect=shadow-multiple|3d-float" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Cantarell|Droid+Serif:bold" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Cantarell:i|Droid+Serif:b" rel="stylesheet">
@@ -16,84 +17,119 @@
     <meta name="theme-color" content="#FFCB47">
 </head>
 <body>
-<div class="content">
-    <div class="header clearfix">
-        <p>
-            <img class="me-image" src="img/me_solo.png" alt="me solo image">
-        </p>
-        <nav class="font-effect-3d-float borderBottom">
-            <a href="#back-to-top" class="borderLeft borderRight active" >Home</a>
-            <a href="#about"class="borderRight">About</a>
+<div class="outerwrapper">
+        <nav class="font-effect-3d-float borderBottom menu">
+            <a href="#back-to-top" class="borderLeft borderRight active" ><li>Home</li></a>
+            <a href="#about"class="borderRight"><li>About</li></a>
             <a href="#projects"class="borderRight">Code</a>
-            <a href="#blog"class="borderRight">Blog</a>
+            <a href="#blog"class="borderLeft borderRight">Blog</a>
             <a id="contactForm" class="borderRight">Email</a>
         </nav>
+    <div class="social">
+        <i class="fab fa-twitter"></i>
+        <i class="fab fa-gitlab"></i>
+        <i class="fab fa-youtube"></i>
+        <i class="fab fa-linkedin"></i>
     </div>
-    <br>
-    <br>
-    <br>
-    <h1 class="pageTitle font-effect-3d-float">Recent Posts</h1>
-    <p class="titleCaption">
-        Tech related content, reviews, tutorials, opinions, sports and travel.
-    </p>
-    <div class="clearfix">
+    <div class="content">
         <section>
-            <article class="card">
-                <img class="blogThumb" src="img/website_img.png">
-
-                <h1 class="blog">My First Website</h1>
-                <h3 class="blog">Websites to practice coding skills... posted: 8/12/2019</h3>
-                <p class="blog">
-                    I started building this site a few months ago and as a novice developer wanted to share my experience
-                    through the process, styling, positioning, FLOATING elements and a lot of swearing went into what you see here
-                    and every time I finish a portion, I learn something new and can't wait to re-do everything again....
-                </p>
-                <br>
-                <p class="centered"><a href="blog.html">Read More</a></p>
-            </article>
-            <article class="card">
-                <a id="blog"></a>
-                <img class="blogThumb" src="img/website_img.png">
-
-                <h1 class="blog">My First Website</h1>
-                <h3 class="blog">Websites to practice coding skills... posted: 8/12/2019</h3>
-                <p class="blog">
-                    I started building this site a few months ago and as a novice developer wanted to share my experience
-                    through the process, styling, positioning, FLOATING elements and a lot of swearing went into what you see here
-                    and every time I finish a portion, I learn something new and can't wait to re-do everything again....
-                </p>
-                <br>
-                <p class="centered"><a href="blog.html">Read More</a></p>
-            </article>
-            <article class="card">
-                <img class="blogThumb" src="img/codingbat.png">
-                <h1 class="blog">Learning to Code: Resources to practice youskills.</h1>
-                <h3 class="blog">Websites to practice coding skills... posted: 8/12/2019</h3>
-                <p class="blog">Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
-                    Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
-                </p>
-                <br>
-                <p class="centered"><a href="blog.html">Read More</a></p>
+            <article>
+        <img class="me-image" src="img/me_solo.png" alt="me solo image">
+    <h1 class="pageTitle font-effect-3d-float">Dan's Blog</h1>
+    <h4 class="titleCaption">
+        Tech related content, reviews, tutorials, opinions, sports and travel.
+    </h4>
             </article>
         </section>
-    </div>
-    <div class="clearfix">
-        <footer>
-            <div class="social">
-                <i class="fab fa-twitter"></i>
-                <i class="fab fa-gitlab"></i>
-                <i class="fab fa-youtube"></i>
-                <i class="fab fa-linkedin"></i>
-            </div>
-            <nav class="borderBottom footer">
-                <a href="#back-to-top" class="borderLeft borderRight active" >Home</a>
-                <a href="#about" class="borderRight">About</a>
-                <a href="#projects" class="borderRight">Code</a>
-                <a href="#blog" class="borderRight">Blog</a>
-                <a class="contactForm borderRight">Email</a>
-            </nav>
-        </footer>
-    </div>
-</div>
+
+
+        <!--
+      <div>
+          <section>
+              <article class="topics">
+                  <div class="topicCard">
+                      <h1 class="topic">Tech</h1>
+                  </div>
+                  <div class="topicCard">
+                      <h1 class="topic">Sports</h1>
+                  </div>
+                  <div class="topicCard">
+                      <h1 class="topic">Travel</h1>
+                  </div>
+                  <div class="topicCard">
+                      <h1 class="topic">Opinion</h1>
+                  </div>
+              </article>
+
+          </section>
+
+          <section>
+              <article class="card">
+                  <img class="blogThumb" src="img/website_img.png">
+
+                  <h1 class="blog">My First Website</h1>
+                  <h3 class="blog">Websites to practice coding skills... posted: 8/12/2019</h3>
+                  <p class="blog">
+                      I started building this site a few months ago and as a novice developer wanted to share my experience
+                      through the process, styling, positioning, FLOATING elements and a lot of swearing went into what you see here
+                      and every time I finish a portion, I learn something new and can't wait to re-do everything again....
+                  </p>
+                  <br>
+                  <p class="centered"><a href="blog.html">Read More</a></p>
+              </article>
+              <article class="card">
+                  <a id="blog"></a>
+                  <img class="blogThumb" src="img/website_img.png">
+
+                  <h1 class="blog">My First Website</h1>
+                  <h3 class="blog">Websites to practice coding skills... posted: 8/12/2019</h3>
+                  <p class="blog">
+                      I started building this site a few months ago and as a novice developer wanted to share my experience
+                      through the process, styling, positioning, FLOATING elements and a lot of swearing went into what you see here
+                      and every time I finish a portion, I learn something new and can't wait to re-do everything again....
+                  </p>
+                  <br>
+                  <p class="centered"><a href="blog.html">Read More</a></p>
+              </article>
+              <article class="card">
+                  <img class="blogThumb" src="img/codingbat.png">
+                  <h1 class="blog">Learning to Code: Resources to practice youskills.</h1>
+                  <h3 class="blog">Websites to practice coding skills... posted: 8/12/2019</h3>
+                  <p class="blog">Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                      Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                  </p>
+                  <br>
+                  <p class="centered"><a href="blog.html">Read More</a></p>
+              </article>
+          </section>
+      </div>
+      <div>
+          <footer>
+              <nav class="borderBottom footer">
+                  <a href="#back-to-top" class="borderLeft borderRight active" >Home</a>
+                  <a href="#about" class="borderRight">About</a>
+                  <a href="#projects" class="borderRight">Code</a>
+                  <a href="#blog" class="borderRight">Blog</a>
+                  <a class="contactForm borderRight">Email</a>
+              </nav>
+          </footer>
+      </div>
+  </div>
+  </div>
+
+  <!-- Add your site or application content here -->
+<script src="js/vendor/modernizr-3.7.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-3.4.1.min.js"><\/script>')</script>
+<script src="js/plugins.js"></script>
+<script src="js/blog.js"></script>
+
+<!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+<script>
+    window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
+    ga('create', 'UA-XXXXX-Y', 'auto'); ga('set','transport','beacon'); ga('send', 'pageview')
+</script>
+
+
 </body>
 </html>
